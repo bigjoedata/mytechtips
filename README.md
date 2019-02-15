@@ -1,11 +1,11 @@
 # Joestechtips
-I haven't necessarily used all of these, but many I have, and I think they are either good on their own, or a good starting point for something else
+I haven't necessarily used all of these, but many I have, and I think they are either good on their own, or a good starting point for something else\n
 
 # Dev - General
 Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial
 
 # Dev - API
-Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/
+Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/\n
 GA API Explorer https://ga-dev-tools.appspot.com/
 REST API Testing	https://www.getpostman.com/
 
