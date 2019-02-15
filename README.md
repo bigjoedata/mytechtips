@@ -1,21 +1,21 @@
 # Joestechtips
-I haven't necessarily used all of these, but many I have, and I think they are either good on their own, or a good starting point for something else\n
+I haven't necessarily used all of these, but many I have, and I think they are either good on their own, or a good starting point for something else<br>
 
 # Dev - General
 Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial
 
 # Dev - API
-Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/
-GA API Explorer https://ga-dev-tools.appspot.com/
+Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
+GA API Explorer https://ga-dev-tools.appspot.com/<br>
 REST API Testing	https://www.getpostman.com/
 
 # Dev - API Reference
 Brightcove	https://support.brightcove.com/overview-analytics-api-v1#metrics
 
 # Dev - Alteryx
-Alteryx Getting Started	https://community.alteryx.com/t5/Getting-Started-Resources/Getting-Started-with-Alteryx-Designer/ta-p/165442
-Invisio Alteryx Macro Pack	https://inviso.dk/blog/post/the-inviso-macro-pack-for-alteryx
-Create Alteryx tool	https://help.alteryx.com/developer/current/PackageTool.htm?tocpath=Custom%20Alteryx%20Tools%7C_____2
+Alteryx Getting Started	https://community.alteryx.com/t5/Getting-Started-Resources/Getting-Started-with-Alteryx-Designer/ta-p/165442<br>
+Invisio Alteryx Macro Pack	https://inviso.dk/blog/post/the-inviso-macro-pack-for-alteryx<br>
+Create Alteryx tool	https://help.alteryx.com/developer/current/PackageTool.htm?tocpath=Custom%20Alteryx%20Tools%7C_____2<br>
 Python SDK	https://community.alteryx.com/t5/Data-Science-Blog/Levelling-Up-A-Beginner-s-Guide-to-the-Python-SDK-in-Alteryx/ba-p/159440
 Alteryx R cheat sheet	https://community.alteryx.com/t5/Data-Science-Blog/bg-p/Data-Science-Blog?attachment-id=21415
 Datablending	https://datablends.us/2018/02/24/my-fifty-most-recent-alteryx-articles/
