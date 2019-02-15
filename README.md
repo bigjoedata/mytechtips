@@ -23,7 +23,7 @@ Alteryx - Getting started with Google Analytics	https://community.alteryx.com/t5
 Alteryx - Guide to Creating Your Own Connector Series	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Guide-to-Creating-Your-Own-Connector-Series/ta-p/23578<br>
 Altertyx CURL	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/APIs-in-Alteryx-cURL-and-Download-Tool/ta-p/31522/jump-to/first-unread-message
 
-# Dev - Alteryx - Python
+# Dev - Alteryx (Python)
 Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-New-Kind-of-Macro/ba-p/260418
 
 # Dev - ETL
@@ -46,6 +46,8 @@ Python NLTK	http://www.nltk.org/book/<br>
 GA Scraper	https://github.com/debrouwere/google-analytics<br>
 Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML-Server-Python-Samples/blob/master/operationalize/Quickstart_Publish_Python_Web_Service.ipynb<br>
 Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/
+Remote kernel services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html
+
 
 # Dev - Tableau
 Tableau Dropdown	https://onlinehelp.tableau.com/current/pro/desktop/en-us/parameters_swap.html
