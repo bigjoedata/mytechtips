@@ -5,7 +5,7 @@ I haven't necessarily used all of these, but many I have, and I think they are e
 Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial
 
 # Dev - API
-Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/\n
+Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/
 GA API Explorer https://ga-dev-tools.appspot.com/
 REST API Testing	https://www.getpostman.com/
 
