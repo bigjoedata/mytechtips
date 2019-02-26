@@ -55,4 +55,11 @@ Tableau Dropdown	https://onlinehelp.tableau.com/current/pro/desktop/en-us/parame
 # Creative
 Icons	https://iconmonstr.com/
 
+# Visualization
+Open source dashboarding https://www.metabase.com/
+Open source dashboarding http://superset.apache.org/
+Open source dashboarding https://redash.io/
+Instagram dashboard https://igmonitoring.com/
+
 # General Reference
+List of self-hosted software https://github.com/Kickball/awesome-selfhosted
