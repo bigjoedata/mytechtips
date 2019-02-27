@@ -11,6 +11,7 @@ REST API Testing	https://www.getpostman.com/
 
 # Dev - API Reference
 Brightcove	https://support.brightcove.com/overview-analytics-api-v1#metrics
+Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/
 
 # Dev - Alteryx
 Alteryx Getting Started	https://community.alteryx.com/t5/Getting-Started-Resources/Getting-Started-with-Alteryx-Designer/ta-p/165442<br>
@@ -28,6 +29,8 @@ Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-Ne
 
 # Dev - ETL
 Apache Drill for JSON	http://drill.apache.org/<br>
+Apatche Drill + Tableau https://mapr.com/blog/apache-drill-its-drilliant-query-json-files-tableau-desktop/<br>
+ODBC Drivers https://www.cdata.com/odbc/<br>
 
 # Data - Geo
 Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html<br>
@@ -39,15 +42,17 @@ Article scraping	https://github.com/codelucas/newspaper<br>
 How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
 Open scraped data http://commoncrawl.org<br>
 Normalization https://regexone.com/lesson/matching_characters?
+Multi-lingual sentence representations https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/
 
 # Dev - Python
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
 Python NLTK	http://www.nltk.org/book/<br>
 GA Scraper	https://github.com/debrouwere/google-analytics<br>
 Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML-Server-Python-Samples/blob/master/operationalize/Quickstart_Publish_Python_Web_Service.ipynb<br>
-Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/
-Remote kernel services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html
-
+Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/<br>
+Remote kernel services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
+Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
+Google Trends https://github.com/GeneralMills/pytrends
 
 # Dev - Tableau
 Tableau Dropdown	https://onlinehelp.tableau.com/current/pro/desktop/en-us/parameters_swap.html
