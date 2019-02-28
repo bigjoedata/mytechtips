@@ -31,6 +31,7 @@ Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-Ne
 Apache Drill for JSON	http://drill.apache.org/<br>
 Apatche Drill + Tableau https://mapr.com/blog/apache-drill-its-drilliant-query-json-files-tableau-desktop/<br>
 ODBC Drivers https://www.cdata.com/odbc/<br>
+Full infrastructure https://snowplowanalytics.com/<br>
 
 # Analytics - NLP & Image Recogntion
 Article scraping	https://github.com/codelucas/newspaper<br>
@@ -41,6 +42,7 @@ Multi-lingual sentence representations https://code.fb.com/ai-research/laser-mul
 Image recognition		https://github.com/Raknoche/AptDeco
 
 # Analytics - Python
+Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
 Interactive Machine Learning Examples		https://research.google.com/seedbank/<br>
 CURL to code		https://curl.trillworks.com/#python
@@ -66,7 +68,9 @@ Icons	https://iconmonstr.com/
 
 # Backend - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
-Cloud services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
+Jupyter Cloud services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
+Really cheap Kubernetes cluster on AWS https://github.com/cablespaghetti/kubeadm-aws<br>
+
 
 # Backend - Visualization
 Open source dashboarding https://www.metabase.com/<br>
