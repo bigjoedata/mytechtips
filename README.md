@@ -1,12 +1,17 @@
 # Joestechtips
 I haven't necessarily used all of these, but many I have, and I think they are either good on their own, or a good starting point for something else<br>
 
+# Data Science - General
+Why Data Science Teams Need Generalists, Not Specialists https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists<br>
+How Data Science is written into the fabric of stitchfix https://algorithms-tour.stitchfix.com/
+
 # Dev - General
 Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial
 
 # Analytics - General
-Workflow management https://sourceforge.net/projects/pentaho/
-Workflow management https://www.knime.com/
+Workflow management https://sourceforge.net/projects/pentaho/<br>
+Workflow management https://www.knime.com/<br>
+Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3
 
 # Analytics - API
 Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
@@ -24,7 +29,7 @@ Alteryx R cheat sheet	https://community.alteryx.com/t5/Data-Science-Blog/bg-p/Da
 Datablending	https://datablends.us/2018/02/24/my-fifty-most-recent-alteryx-articles/<br>
 Alteryx - Getting started with Google Analytics	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/The-How-to-Guide-to-Google-Analytics/ta-p/15137<br>
 Alteryx - Guide to Creating Your Own Connector Series	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Guide-to-Creating-Your-Own-Connector-Series/ta-p/23578<br>
-Altertyx CURL	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/APIs-in-Alteryx-cURL-and-Download-Tool/ta-p/31522/jump-to/first-unread-message
+Altertyx CURL	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/APIs-in-Alteryx-cURL-and-Download-Tool/ta-p/31522/jump-to/first-unread-message<br>
 Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-New-Kind-of-Macro/ba-p/260418
 
 # Analytics - ETL
@@ -32,6 +37,7 @@ Apache Drill for JSON	http://drill.apache.org/<br>
 Apatche Drill + Tableau https://mapr.com/blog/apache-drill-its-drilliant-query-json-files-tableau-desktop/<br>
 ODBC Drivers https://www.cdata.com/odbc/<br>
 Full infrastructure https://snowplowanalytics.com/<br>
+Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451<br>
 
 # Analytics - NLP & Image Recogntion
 Article scraping	https://github.com/codelucas/newspaper<br>
@@ -68,9 +74,14 @@ Icons	https://iconmonstr.com/
 
 # Backend - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
+
+# Backend - Containerized Services
+Zero to JupyterHub with Kubernetes https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html<br>
 Jupyter Cloud services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
 Really cheap Kubernetes cluster on AWS https://github.com/cablespaghetti/kubeadm-aws<br>
-
+Define and execute containerized jobs https://github.com/stitchfix/flotilla-os<br>
+Azure deployment https://dev.to/azure/all-your-containers-are-belong-to-usdeploying-to-microsoft-azure-7dm<br>
+Overview of container development https://hackernoon.com/https-medium-com-spruha-pandya-of-microservices-containers-6f0ea25dac3
 
 # Backend - Visualization
 Open source dashboarding https://www.metabase.com/<br>
