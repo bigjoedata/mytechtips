@@ -1,9 +1,13 @@
 # Joestechtips
 I haven't necessarily used all of these, but many I have, and I think they are either good on their own, or a good starting point for something else<br>
 
-# Data Science - General
+# Data Science - General Articles
 Why Data Science Teams Need Generalists, Not Specialists https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists<br>
 How Data Science is written into the fabric of stitchfix https://algorithms-tour.stitchfix.com/
+https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html
+
+#Data Science - Ethics
+https://www.fast.ai/2019/03/04/ethics-framework/
 
 # Dev - General
 Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial
@@ -46,6 +50,8 @@ Open scraped data http://commoncrawl.org<br>
 Normalization https://regexone.com/lesson/matching_characters?
 Multi-lingual sentence representations https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/
 Image recognition		https://github.com/Raknoche/AptDeco
+https://github.com/google-research/bert<br>
+Fast.ai API https://www.fast.ai/<br>
 
 # Analytics - Python
 Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
