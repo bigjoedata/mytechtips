@@ -3,10 +3,10 @@ I haven't necessarily used all of these, but many I have, and I think they are e
 
 # Data Science - General Articles
 Why Data Science Teams Need Generalists, Not Specialists https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists<br>
-How Data Science is written into the fabric of stitchfix https://algorithms-tour.stitchfix.com/
+How Data Science is written into the fabric of stitchfix https://algorithms-tour.stitchfix.com/<br>
 https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html
 
-#Data Science - Ethics
+# Data Science - Ethics
 https://www.fast.ai/2019/03/04/ethics-framework/
 
 # Dev - General
@@ -20,9 +20,9 @@ Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascienc
 # Analytics - API
 Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
 GA API Explorer https://ga-dev-tools.appspot.com/<br>
-REST API Testing	https://www.getpostman.com/
-Brightcove	https://support.brightcove.com/overview-analytics-api-v1#metrics
-Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/
+REST API Testing	https://www.getpostman.com/<br>
+Brightcove	https://support.brightcove.com/overview-analytics-api-v1#metrics<br>
+Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
 
 # Analytics - Alteryx
 Alteryx Getting Started	https://community.alteryx.com/t5/Getting-Started-Resources/Getting-Started-with-Alteryx-Designer/ta-p/165442<br>
@@ -47,24 +47,27 @@ Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apac
 Article scraping	https://github.com/codelucas/newspaper<br>
 How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
 Open scraped data http://commoncrawl.org<br>
-Normalization https://regexone.com/lesson/matching_characters?
-Multi-lingual sentence representations https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/
-Image recognition		https://github.com/Raknoche/AptDeco
+Normalization https://regexone.com/lesson/matching_characters?<br>
+Multi-lingual sentence representations https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/<br>
+Image recognition		https://github.com/Raknoche/AptDeco<br>
 https://github.com/google-research/bert<br>
 Fast.ai API https://www.fast.ai/<br>
 
 # Analytics - Python
 Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
+Python project Setup tips https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
 Interactive Machine Learning Examples		https://research.google.com/seedbank/<br>
-CURL to code		https://curl.trillworks.com/#python
+CURL to code		https://curl.trillworks.com/#python<br>
 Python NLTK	http://www.nltk.org/book/<br>
 GA Scraper	https://github.com/debrouwere/google-analytics<br>
 Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML-Server-Python-Samples/blob/master/operationalize/Quickstart_Publish_Python_Web_Service.ipynb<br>
+Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/<br>
 Remote kernel services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
 Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
 Google Trends https://github.com/GeneralMills/pytrends<br>
+Jupyter setup best practices https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332<br>
 Twitter to Python to Mongo		https://pythondata.com/collecting-storing-tweets-with-python-and-mongodb/<br>
 
 # Analytics - Search & Social
@@ -76,7 +79,7 @@ Shares & Likes https://www.sharedcount.com/<br>
 Machine learning framework with Docker		https://github.com/ufoym/deepo
 
 # Creative
-Icons	https://iconmonstr.com/
+Icons	https://iconmonstr.com/<br>
 
 # Backend - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
@@ -96,8 +99,8 @@ Open source dashboarding https://redash.io/<br>
 Open source dashboarding https://reportserver.net/<br>
 
 # Primary Data - General
-Data aggregator		https://www.google.com/publicdata/directory
-Data aggregator		https://www.quandl.com/
+Data aggregator		https://www.google.com/publicdata/directory<br>
+Data aggregator		https://www.quandl.com/<br>
 
 # Primary Data - Geo
 Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html<br>
