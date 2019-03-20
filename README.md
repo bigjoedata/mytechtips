@@ -84,6 +84,9 @@ Google VS		https://anvaka.github.io/vs/?query=undefined     https://anvaka.githu
 Instagram dashboard https://igmonitoring.com/<br>
 Shares & Likes https://www.sharedcount.com/<br>
 
+# Analytics - Scraping
+Visual scraping https://github.com/scrapinghub/portia#
+
 # Analytics - Primary Data - General
 Data aggregator		https://www.google.com/publicdata/directory<br>
 Data aggregator		https://www.quandl.com/<br>
