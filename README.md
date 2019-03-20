@@ -50,8 +50,18 @@ Open scraped data http://commoncrawl.org<br>
 Normalization https://regexone.com/lesson/matching_characters?<br>
 Multi-lingual sentence representations https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/<br>
 Image recognition		https://github.com/Raknoche/AptDeco<br>
-https://github.com/google-research/bert<br>
+Pre-training language representations https://github.com/google-research/bert<br>
 Fast.ai API https://www.fast.ai/<br>
+Twitter Scraping https://github.com/kennethreitz/twitter-scraper<br>
+Stanford NLP https://github.com/stanfordnlp/stanfordnlp<br>
+Entity comparisons (GloVe model for distributed word representation) https://github.com/stanfordnlp/GloVe<br>
+Wiki dump parsing https://github.com/attardi/wikiextractor<br>
+Web-based text analysis, reading and visualization environment https://voyant-tools.org/
+Spacy REST services https://github.com/explosion/spacy-services<br>
+Spacy Docker REST container https://github.com/jgontrum/spacy-api-docker<br>
+Spacy Docker REST container https://github.com/artpar/languagecrunch
+
+
 
 # Analytics - Python
 Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
@@ -87,6 +97,7 @@ List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
 # Backend - Containerized Services
 Zero to JupyterHub with Kubernetes https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html<br>
 Jupyter Cloud services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
+https://www.kubeflow.org/<br>
 Really cheap Kubernetes cluster on AWS https://github.com/cablespaghetti/kubeadm-aws<br>
 Define and execute containerized jobs https://github.com/stitchfix/flotilla-os<br>
 Azure deployment https://dev.to/azure/all-your-containers-are-belong-to-usdeploying-to-microsoft-azure-7dm<br>
