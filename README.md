@@ -44,6 +44,7 @@ Full infrastructure https://snowplowanalytics.com/<br>
 Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451<br>
 
 # Analytics - NLP & Image Recogntion
+Curated NLP page https://github.com/keon/awesome-nlp<br>
 Article scraping	https://github.com/codelucas/newspaper<br>
 How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
 Open scraped data http://commoncrawl.org<br>
@@ -60,8 +61,6 @@ Web-based text analysis, reading and visualization environment https://voyant-to
 Spacy REST services https://github.com/explosion/spacy-services<br>
 Spacy Docker REST container https://github.com/jgontrum/spacy-api-docker<br>
 Spacy Docker REST container https://github.com/artpar/languagecrunch
-
-
 
 # Analytics - Python
 Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
@@ -85,11 +84,22 @@ Google VS		https://anvaka.github.io/vs/?query=undefined     https://anvaka.githu
 Instagram dashboard https://igmonitoring.com/<br>
 Shares & Likes https://www.sharedcount.com/<br>
 
+# Analytics - Primary Data - General
+Data aggregator		https://www.google.com/publicdata/directory<br>
+Data aggregator		https://www.quandl.com/<br>
+
+# Analytics -  Primary Data - Training
+NLP https://github.com/niderhoff/nlp-datasets<br>
+NLP https://github.com/awesomedata/awesome-public-datasets#natural-language<br>
+
+# Analytics - Primary Data - Geo
+Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html<br>
+Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html<br>
+Mapping	https://wiki.openstreetmap.org/wiki/Planet.osm
+
 # Analytics - Misc
 Machine learning framework with Docker		https://github.com/ufoym/deepo
-
-# Creative
-Icons	https://iconmonstr.com/<br>
+Databricks unified platform https://databricks.com/product/unified-analytics-platform
 
 # Backend - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
@@ -109,11 +119,8 @@ Open source dashboarding http://superset.apache.org/<br>
 Open source dashboarding https://redash.io/<br>
 Open source dashboarding https://reportserver.net/<br>
 
-# Primary Data - General
-Data aggregator		https://www.google.com/publicdata/directory<br>
-Data aggregator		https://www.quandl.com/<br>
 
-# Primary Data - Geo
-Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html<br>
-Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html<br>
-Mapping	https://wiki.openstreetmap.org/wiki/Planet.osm
+
+
+# Creative
+Icons	https://iconmonstr.com/<br>
