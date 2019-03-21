@@ -62,29 +62,37 @@ Spacy REST services https://github.com/explosion/spacy-services<br>
 Spacy Docker REST container https://github.com/jgontrum/spacy-api-docker<br>
 Spacy Docker REST container https://github.com/artpar/languagecrunch
 
-# Analytics - Python
-Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
-Python project Setup tips https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13
+# Analytics - Python General
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
 Interactive Machine Learning Examples		https://research.google.com/seedbank/<br>
+Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
+
+# Analytics - Python - Best Practices
+Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
+Python project Setup tips https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13<br>
+Elegantly activating a virtualenv in a Dockerfile https://pythonspeed.com/articles/activate-virtualenv-dockerfile/<br>
+Jupyter setup best practices https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332<br>
+
+# Analytics - Python Architecture & Front ends
+Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/<br>
+Remote kernel services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
+Git to notebooks https://mybinder.org/<br>
+
+# Analytics - Python Libraries
 CURL to code		https://curl.trillworks.com/#python<br>
 Python NLTK	http://www.nltk.org/book/<br>
 GA Scraper	https://github.com/debrouwere/google-analytics<br>
 Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML-Server-Python-Samples/blob/master/operationalize/Quickstart_Publish_Python_Web_Service.ipynb<br>
-Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
-Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/<br>
-Remote kernel services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
-Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
-Google Trends https://github.com/GeneralMills/pytrends<br>
-Jupyter setup best practices https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332<br>
 Twitter to Python to Mongo		https://pythondata.com/collecting-storing-tweets-with-python-and-mongodb/<br>
 
 # Analytics - Search & Social
-Google VS		https://anvaka.github.io/vs/?query=undefined     https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20is%20...&query=toefl     https://www.reddit.com/r/dataisbeautiful/comments/9yg8w9/googles_autocomplete_visualized_like_a_graph_link/<br>
+Google VS		https://anvaka.github.io/vs/?query=undefined (example)     https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20is%20...&query=toefl     https://www.reddit.com/r/dataisbeautiful/comments/9yg8w9/googles_autocomplete_visualized_like_a_graph_link/<br>
 Instagram dashboard https://igmonitoring.com/<br>
 Shares & Likes https://www.sharedcount.com/<br>
+Google Trends https://github.com/GeneralMills/pytrends<br>
 
-# Analytics - Scraping
+# Analytics - Unstructured Scraping
+Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
 Visual scraping https://github.com/scrapinghub/portia#
 
 # Analytics - Primary Data - General
