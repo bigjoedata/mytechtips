@@ -106,11 +106,13 @@ NLP https://github.com/awesomedata/awesome-public-datasets#natural-language<br>
 # Analytics - Primary Data - Geo
 Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html<br>
 Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html<br>
-Mapping	https://wiki.openstreetmap.org/wiki/Planet.osm
+Mapping	https://wiki.openstreetmap.org/wiki/Planet.osm<br>
 
 # Analytics - Misc
-Machine learning framework with Docker		https://github.com/ufoym/deepo
-Databricks unified platform https://databricks.com/product/unified-analytics-platform
+ML Framework for Kubernetes https://www.kubeflow.org/<br>
+Machine learning framework with Docker		https://github.com/ufoym/deepo<br>
+Databricks unified platform https://databricks.com/product/unified-analytics-platform<br>
+Model deployment at scale https://www.slideshare.net/seldon_io/seldon-deploying-models-at-scale<br>
 
 # Backend - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
