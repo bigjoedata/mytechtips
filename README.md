@@ -93,7 +93,8 @@ Google Trends https://github.com/GeneralMills/pytrends<br>
 
 # Analytics - Unstructured Scraping
 Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
-Visual scraping https://github.com/scrapinghub/portia#
+Visual scraping https://github.com/scrapinghub/portia#<br>
+https://github.com/bigjoedata/mytechtips/edit/master/README.md
 
 # Analytics - Primary Data - General
 Data aggregator		https://www.google.com/publicdata/directory<br>
