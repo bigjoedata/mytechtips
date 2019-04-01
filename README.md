@@ -9,6 +9,9 @@ https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.h
 # Data Science - Ethics
 https://www.fast.ai/2019/03/04/ethics-framework/
 
+# Data Science - Training
+Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b
+
 # Dev - General
 Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial
 
@@ -72,6 +75,7 @@ Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python
 Python project Setup tips https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13<br>
 Elegantly activating a virtualenv in a Dockerfile https://pythonspeed.com/articles/activate-virtualenv-dockerfile/<br>
 Jupyter setup best practices https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332<br>
+Docker + Python https://pythonspeed.com/articles/activate-virtualenv-dockerfile/
 
 # Analytics - Python Architecture & Front ends
 Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/<br>
@@ -115,6 +119,9 @@ Machine learning framework with Docker		https://github.com/ufoym/deepo<br>
 Databricks unified platform https://databricks.com/product/unified-analytics-platform<br>
 Model deployment at scale https://www.slideshare.net/seldon_io/seldon-deploying-models-at-scale<br>
 
+# Analytics - Front End - Visualization
+Some common mistakes https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368
+
 # Backend - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
 
@@ -126,6 +133,9 @@ Really cheap Kubernetes cluster on AWS https://github.com/cablespaghetti/kubeadm
 Define and execute containerized jobs https://github.com/stitchfix/flotilla-os<br>
 Azure deployment https://dev.to/azure/all-your-containers-are-belong-to-usdeploying-to-microsoft-azure-7dm<br>
 Overview of container development https://hackernoon.com/https-medium-com-spruha-pandya-of-microservices-containers-6f0ea25dac3
+
+# Backend - Machine Learning Storage Deployment<br>
+Deployment https://www.seldon.io/
 
 # Backend - Visualization
 Open source dashboarding https://www.metabase.com/<br>
