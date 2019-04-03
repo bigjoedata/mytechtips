@@ -11,17 +11,13 @@ https://www.fast.ai/2019/03/04/ethics-framework/
 
 # Data Science - Training
 Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b
+Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3
 
 # Data Science - Best Practices
 Common coding mistakes https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html<br>
 
 # Dev - General
 Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial
-
-# Analytics - General
-Workflow management https://sourceforge.net/projects/pentaho/<br>
-Workflow management https://www.knime.com/<br>
-Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3
 
 # Analytics - API
 Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
@@ -130,6 +126,8 @@ List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
 
 # Backend - Workflow management
 Databolt Flow for Python https://github.com/d6t/d6tflow<br>
+Workflow management https://sourceforge.net/projects/pentaho/<br>
+Workflow management https://www.knime.com/<br>
 
 # Backend - Containerized Services
 Zero to JupyterHub with Kubernetes https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html<br>
