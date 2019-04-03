@@ -12,6 +12,9 @@ https://www.fast.ai/2019/03/04/ethics-framework/
 # Data Science - Training
 Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b
 
+# Data Science - Best Practices
+Common coding mistakes https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html<br>
+
 # Dev - General
 Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial
 
@@ -124,6 +127,9 @@ Some common mistakes https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd
 
 # Backend - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
+
+# Backend - Workflow management
+Databolt Flow for Python https://github.com/d6t/d6tflow<br>
 
 # Backend - Containerized Services
 Zero to JupyterHub with Kubernetes https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html<br>
