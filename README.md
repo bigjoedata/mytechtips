@@ -4,20 +4,20 @@ I haven't necessarily used all of these, but many I have, and I think they are e
 # Data Science - General Articles
 Why Data Science Teams Need Generalists, Not Specialists https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists<br>
 How Data Science is written into the fabric of stitchfix https://algorithms-tour.stitchfix.com/<br>
-https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html
+https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html<br>
 
 # Data Science - Ethics
-https://www.fast.ai/2019/03/04/ethics-framework/
+https://www.fast.ai/2019/03/04/ethics-framework/<br>
 
 # Data Science - Training
-Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b
-Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3
+Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b<br>
+Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 
 # Data Science - Best Practices
 Common coding mistakes https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html<br>
 
 # Dev - General
-Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial
+Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial<br>
 
 # Analytics - API
 Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
@@ -36,7 +36,7 @@ Datablending	https://datablends.us/2018/02/24/my-fifty-most-recent-alteryx-artic
 Alteryx - Getting started with Google Analytics	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/The-How-to-Guide-to-Google-Analytics/ta-p/15137<br>
 Alteryx - Guide to Creating Your Own Connector Series	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Guide-to-Creating-Your-Own-Connector-Series/ta-p/23578<br>
 Altertyx CURL	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/APIs-in-Alteryx-cURL-and-Download-Tool/ta-p/31522/jump-to/first-unread-message<br>
-Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-New-Kind-of-Macro/ba-p/260418
+Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-New-Kind-of-Macro/ba-p/260418<br>
 
 # Analytics - ETL
 Apache Drill for JSON	http://drill.apache.org/<br>
@@ -59,10 +59,10 @@ Twitter Scraping https://github.com/kennethreitz/twitter-scraper<br>
 Stanford NLP https://github.com/stanfordnlp/stanfordnlp<br>
 Entity comparisons (GloVe model for distributed word representation) https://github.com/stanfordnlp/GloVe<br>
 Wiki dump parsing https://github.com/attardi/wikiextractor<br>
-Web-based text analysis, reading and visualization environment https://voyant-tools.org/
+Web-based text analysis, reading and visualization environment https://voyant-tools.org/<br>
 Spacy REST services https://github.com/explosion/spacy-services<br>
 Spacy Docker REST container https://github.com/jgontrum/spacy-api-docker<br>
-Spacy Docker REST container https://github.com/artpar/languagecrunch
+Spacy Docker REST container https://github.com/artpar/languagecrunch<br>
 
 # Analytics - Python General
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
@@ -74,7 +74,7 @@ Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python
 Python project Setup tips https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13<br>
 Elegantly activating a virtualenv in a Dockerfile https://pythonspeed.com/articles/activate-virtualenv-dockerfile/<br>
 Jupyter setup best practices https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332<br>
-Docker + Python https://pythonspeed.com/articles/activate-virtualenv-dockerfile/
+Docker + Python https://pythonspeed.com/articles/activate-virtualenv-dockerfile/<br>
 
 # Analytics - Python Architecture & Front ends
 Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/<br>
@@ -89,7 +89,7 @@ Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML
 Twitter to Python to Mongo		https://pythondata.com/collecting-storing-tweets-with-python-and-mongodb/<br>
 
 # Analytics - Search & Social
-Google VS		https://anvaka.github.io/vs/?query=undefined (example)     https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20is%20...&query=toefl     https://www.reddit.com/r/dataisbeautiful/comments/9yg8w9/googles_autocomplete_visualized_like_a_graph_link/<br>
+Google VS		https://anvaka.github.io/vs/?query=undefined (example)     https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20is%20...&query=luxemborg https://www.reddit.com/r/dataisbeautiful/comments/9yg8w9/googles_autocomplete_visualized_like_a_graph_link/<br>
 Instagram dashboard https://igmonitoring.com/<br>
 Shares & Likes https://www.sharedcount.com/<br>
 Google Trends https://github.com/GeneralMills/pytrends<br>
@@ -97,7 +97,6 @@ Google Trends https://github.com/GeneralMills/pytrends<br>
 # Analytics - Unstructured Scraping
 Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
 Visual scraping https://github.com/scrapinghub/portia#<br>
-https://github.com/bigjoedata/mytechtips/edit/master/README.md
 
 # Analytics - Primary Data - General
 Data aggregator		https://www.google.com/publicdata/directory<br>
@@ -132,7 +131,7 @@ Workflow management https://www.knime.com/<br>
 # Backend - Containerized Services
 Zero to JupyterHub with Kubernetes https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html<br>
 Jupyter Cloud services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
-https://www.kubeflow.org/<br>
+Kubeflow https://www.kubeflow.org/<br>
 Really cheap Kubernetes cluster on AWS https://github.com/cablespaghetti/kubeadm-aws<br>
 Define and execute containerized jobs https://github.com/stitchfix/flotilla-os<br>
 Azure deployment https://dev.to/azure/all-your-containers-are-belong-to-usdeploying-to-microsoft-azure-7dm<br>
