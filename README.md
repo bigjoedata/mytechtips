@@ -142,6 +142,7 @@ Overview of container development https://hackernoon.com/https-medium-com-spruha
 Deployment https://www.seldon.io/
 
 # Backend - Visualization
+Python visualization https://dash.plot.ly<br>
 Open source dashboarding https://www.metabase.com/<br>
 Open source dashboarding http://superset.apache.org/<br>
 Open source dashboarding https://redash.io/<br>
