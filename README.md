@@ -39,13 +39,6 @@ Alteryx - Guide to Creating Your Own Connector Series	https://community.alteryx.
 Altertyx CURL	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/APIs-in-Alteryx-cURL-and-Download-Tool/ta-p/31522/jump-to/first-unread-message<br>
 Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-New-Kind-of-Macro/ba-p/260418<br>
 
-# Analytics - ETL
-Apache Drill for JSON	http://drill.apache.org/<br>
-Apatche Drill + Tableau https://mapr.com/blog/apache-drill-its-drilliant-query-json-files-tableau-desktop/<br>
-ODBC Drivers https://www.cdata.com/odbc/<br>
-Full infrastructure https://snowplowanalytics.com/<br>
-Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451<br>
-
 # Analytics - NLP & Image Recogntion
 Curated NLP page https://github.com/keon/awesome-nlp<br>
 Article scraping	https://github.com/codelucas/newspaper<br>
@@ -121,15 +114,22 @@ Model deployment at scale https://www.slideshare.net/seldon_io/seldon-deploying-
 # Analytics - Front End - Visualization
 Some common mistakes https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368
 
-# Backend - General
+# Infrastructure - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
 
-# Backend - Workflow management
+# Infrastructure - ETL
+Apache Drill for JSON	http://drill.apache.org/<br>
+Apatche Drill + Tableau https://mapr.com/blog/apache-drill-its-drilliant-query-json-files-tableau-desktop/<br>
+ODBC Drivers https://www.cdata.com/odbc/<br>
+Full infrastructure https://snowplowanalytics.com/<br>
+Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451<br>
+
+# Infrastructure - Workflow management
 Databolt Flow for Python https://github.com/d6t/d6tflow<br>
 Workflow management https://sourceforge.net/projects/pentaho/<br>
 Workflow management https://www.knime.com/<br>
 
-# Backend - Containerized Services
+# Infrastructure - Containerized Services
 Zero to JupyterHub with Kubernetes https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html<br>
 Jupyter Cloud services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
 Kubeflow https://www.kubeflow.org/<br>
@@ -138,17 +138,20 @@ Define and execute containerized jobs https://github.com/stitchfix/flotilla-os<b
 Azure deployment https://dev.to/azure/all-your-containers-are-belong-to-usdeploying-to-microsoft-azure-7dm<br>
 Overview of container development https://hackernoon.com/https-medium-com-spruha-pandya-of-microservices-containers-6f0ea25dac3
 
-# Backend - Machine Learning Storage Deployment<br>
+# Infrastructure - Machine Learning Storage Deployment<br>
 Deployment https://www.seldon.io/
 
-# Backend - Visualization
+# Infrastructure - Visualization
 Python visualization https://dash.plot.ly<br>
 Open source dashboarding https://www.metabase.com/<br>
 Open source dashboarding http://superset.apache.org/<br>
 Open source dashboarding https://redash.io/<br>
 Open source dashboarding https://reportserver.net/<br>
 
-# Backend - Hosted Databases
+# Infrastructure - Chatbots and 
+https://rasa.com/products/rasa-stack/
+
+# Infrastructure - Hosted Databases
 MongoDB https://www.mongodb.com/cloud/atlas<br>
 
 # Creative
