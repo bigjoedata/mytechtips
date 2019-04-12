@@ -69,6 +69,7 @@ Python project Setup tips https://towardsdatascience.com/10-steps-to-set-up-your
 Elegantly activating a virtualenv in a Dockerfile https://pythonspeed.com/articles/activate-virtualenv-dockerfile/<br>
 Jupyter setup best practices https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332<br>
 Docker + Python https://pythonspeed.com/articles/activate-virtualenv-dockerfile/<br>
+Data cleaning reference https://towardsdatascience.com/data-handling-using-pandas-cleaning-and-processing-3aa657dc9418<br>
 
 # Analytics - Python Architecture & Front ends
 Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/<br>
