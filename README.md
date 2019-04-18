@@ -40,6 +40,7 @@ Altertyx CURL	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/APIs-in-Al
 Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-New-Kind-of-Macro/ba-p/260418<br>
 
 # Analytics - NLP & Image Recogntion
+NLP Training Course https://course.spacy.io/<br>
 Curated NLP page https://github.com/keon/awesome-nlp<br>
 Article scraping	https://github.com/codelucas/newspaper<br>
 How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
