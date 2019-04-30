@@ -14,7 +14,6 @@ FirmAI - A repository of business specific workflows https://www.firmai.org/
 Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b<br>
 Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 
-
 # Data Science - Best Practices
 Common coding mistakes https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html<br>
 
@@ -60,11 +59,15 @@ Web-based text analysis, reading and visualization environment https://voyant-to
 Spacy REST services https://github.com/explosion/spacy-services<br>
 Spacy Docker REST container https://github.com/jgontrum/spacy-api-docker<br>
 Spacy Docker REST container https://github.com/artpar/languagecrunch<br>
+Python NLTK	http://www.nltk.org/book/<br>
+Another Spacy example https://towardsdatascience.com/reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1<br>
 
 # Analytics - Python General
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
 Interactive Machine Learning Examples		https://research.google.com/seedbank/<br>
 Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
+Some advanced Python features https://towardsdatascience.com/5-advanced-features-of-python-and-how-to-use-them-73bffa373c84<br>
+Data Discovery - Pandas profiling https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625<br>
 
 # Analytics - Python - Best Practices
 Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
@@ -73,6 +76,7 @@ Elegantly activating a virtualenv in a Dockerfile https://pythonspeed.com/articl
 Jupyter setup best practices https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332<br>
 Docker + Python https://pythonspeed.com/articles/activate-virtualenv-dockerfile/<br>
 Data cleaning reference https://towardsdatascience.com/data-handling-using-pandas-cleaning-and-processing-3aa657dc9418<br>
+Pandas dataframe indexing https://www.kdnuggets.com/2019/04/pandas-dataframe-indexing.html<br>
 
 # Analytics - Python Architecture & Front ends
 Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-analytics-api-introduction/<br>
@@ -81,7 +85,6 @@ Git to notebooks https://mybinder.org/<br>
 
 # Analytics - Python Libraries
 CURL to code		https://curl.trillworks.com/#python<br>
-Python NLTK	http://www.nltk.org/book/<br>
 GA Scraper	https://github.com/debrouwere/google-analytics<br>
 Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML-Server-Python-Samples/blob/master/operationalize/Quickstart_Publish_Python_Web_Service.ipynb<br>
 Twitter to Python to Mongo		https://pythondata.com/collecting-storing-tweets-with-python-and-mongodb/<br>
