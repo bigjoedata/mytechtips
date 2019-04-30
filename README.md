@@ -10,8 +10,10 @@ https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.h
 https://www.fast.ai/2019/03/04/ethics-framework/<br>
 
 # Data Science - Training
+FirmAI - A repository of business specific workflows https://www.firmai.org/
 Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b<br>
 Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
+
 
 # Data Science - Best Practices
 Common coding mistakes https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html<br>
