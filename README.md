@@ -130,6 +130,7 @@ Apatche Drill + Tableau https://mapr.com/blog/apache-drill-its-drilliant-query-j
 ODBC Drivers https://www.cdata.com/odbc/<br>
 Full infrastructure https://snowplowanalytics.com/<br>
 Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451<br>
+Open source ETL - https://www.singer.io/<br>
 
 # Infrastructure - Workflow management
 Databolt Flow for Python https://github.com/d6t/d6tflow<br>
