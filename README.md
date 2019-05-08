@@ -5,6 +5,7 @@ I haven't necessarily used all of these, but many I have, and I think they are e
 Why Data Science Teams Need Generalists, Not Specialists https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists<br>
 How Data Science is written into the fabric of stitchfix https://algorithms-tour.stitchfix.com/<br>
 https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html<br>
+A deep dive into deep learning https://blogs.scientificamerican.com/observations/a-deep-dive-into-deep-learning/<br>
 
 # Data Science - Ethics
 https://www.fast.ai/2019/03/04/ethics-framework/<br>
@@ -45,6 +46,7 @@ Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-Ne
 NLP Training Course https://course.spacy.io/<br>
 Curated NLP page https://github.com/keon/awesome-nlp<br>
 Intel NLP Library https://github.com/NervanaSystems/nlp-architect<br>
+Web Scraping For Beginners Beautifulsoup,Scrapy,Selenium & Twitter API https://towardsdatascience.com/web-scraping-for-beginners-beautifulsoup-scrapy-selenium-twitter-api-f5a6d0589ea6<br>
 Article scraping	https://github.com/codelucas/newspaper<br>
 How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
 Open scraped data http://commoncrawl.org<br>
@@ -61,8 +63,12 @@ Web-based text analysis, reading and visualization environment https://voyant-to
 Spacy REST services https://github.com/explosion/spacy-services<br>
 Spacy Docker REST container https://github.com/jgontrum/spacy-api-docker<br>
 Spacy Docker REST container https://github.com/artpar/languagecrunch<br>
-Python NLTK	http://www.nltk.org/book/<br>
+Processing Spacy at scale https://towardsdatascience.com/a-couple-tricks-for-using-spacy-at-scale-54affd8326cf<br>
+Building a realtime NLP pipeline using Kafka and spaCy https://towardsdatascience.com/building-a-realtime-nlp-pipeline-using-kafka-and-spacy-d4ad636be702<br>
 Another Spacy example https://towardsdatascience.com/reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1<br>
+Using Python to Analyze Game of Thrones https://medium.freecodecamp.org/how-i-used-python-to-analyze-game-of-thrones-503a96028ce6<br>
+Python NLTK	http://www.nltk.org/book/<br>
+Pytorch NLP https://www.kdnuggets.com/2019/04/nlp-pytorch.html<br>
 
 # Analytics - Python General
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
@@ -97,6 +103,7 @@ Google VS		https://anvaka.github.io/vs/?query=undefined (example)     https://an
 Instagram dashboard https://igmonitoring.com/<br>
 Shares & Likes https://www.sharedcount.com/<br>
 Google Trends https://github.com/GeneralMills/pytrends<br>
+Extracting Twitter Data, Pre-Processing and Sentiment Analysis using Python 3.0 https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf<br>
 
 # Analytics - Unstructured Scraping
 Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
@@ -106,11 +113,11 @@ Visual scraping https://github.com/scrapinghub/portia#<br>
 Data aggregator		https://www.google.com/publicdata/directory<br>
 Data aggregator		https://www.quandl.com/<br>
 
-# Analytics -  Primary Data - Training
+# Analytics -  Primary Data - Training Datasets
 NLP https://github.com/niderhoff/nlp-datasets<br>
 NLP https://github.com/awesomedata/awesome-public-datasets#natural-language<br>
 
-# Analytics - Primary Data - Geo
+# Analytics - Primary Data - Geo Datasets
 Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html<br>
 Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html<br>
 Mapping	https://wiki.openstreetmap.org/wiki/Planet.osm<br>
@@ -141,13 +148,15 @@ Workflow management https://sourceforge.net/projects/pentaho/<br>
 Workflow management https://www.knime.com/<br>
 
 # Infrastructure - Containerized Services
+Key Kubernetes Concepts https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e<br>
 Zero to JupyterHub with Kubernetes https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html<br>
 Jupyter Cloud services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
 Kubeflow https://www.kubeflow.org/<br>
 Really cheap Kubernetes cluster on AWS https://github.com/cablespaghetti/kubeadm-aws<br>
 Define and execute containerized jobs https://github.com/stitchfix/flotilla-os<br>
 Azure deployment https://dev.to/azure/all-your-containers-are-belong-to-usdeploying-to-microsoft-azure-7dm<br>
-Overview of container development https://hackernoon.com/https-medium-com-spruha-pandya-of-microservices-containers-6f0ea25dac3
+Overview of container development https://hackernoon.com/https-medium-com-spruha-pandya-of-microservices-containers-6f0ea25dac3<br>
+Kubernetes Cost Analysis https://medium.com/kubecost/introducing-kubecost-a-better-approach-to-kubernetes-cost-monitoring-b5450c3ae940<br>
 
 # Infrastructure - Machine Learning Storage Deployment<br>
 Deployment https://www.seldon.io/
