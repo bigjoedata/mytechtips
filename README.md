@@ -9,7 +9,7 @@ https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.h
 # Data Science - Ethics
 https://www.fast.ai/2019/03/04/ethics-framework/<br>
 
-# Data Science - Training
+# Data Science - General reference and Training
 FirmAI - A repository of business specific workflows https://www.firmai.org/
 Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b<br>
 Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
@@ -70,6 +70,7 @@ Interactive Machine Learning Examples		https://research.google.com/seedbank/<br>
 Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 Some advanced Python features https://towardsdatascience.com/5-advanced-features-of-python-and-how-to-use-them-73bffa373c84<br>
 Data Discovery - Pandas profiling https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625<br>
+Pandas dataframe indexing https://www.kdnuggets.com/2019/04/pandas-dataframe-indexing.html<br>
 
 # Analytics - Python - Best Practices
 Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
