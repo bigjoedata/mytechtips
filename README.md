@@ -15,6 +15,7 @@ Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resource
 Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 
 # Data Science - Best Practices
+Interpretable Machine Learning: A Guide for Making Black Box Models Explainable https://christophm.github.io/interpretable-ml-book/<br>
 Common coding mistakes https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html<br>
 
 # Dev - General
@@ -43,6 +44,7 @@ Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-Ne
 # Analytics - NLP & Image Recogntion
 NLP Training Course https://course.spacy.io/<br>
 Curated NLP page https://github.com/keon/awesome-nlp<br>
+Intel NLP Library https://github.com/NervanaSystems/nlp-architect<br>
 Article scraping	https://github.com/codelucas/newspaper<br>
 How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
 Open scraped data http://commoncrawl.org<br>
