@@ -70,6 +70,10 @@ Using Python to Analyze Game of Thrones https://medium.freecodecamp.org/how-i-us
 Python NLTK	http://www.nltk.org/book/<br>
 Pytorch NLP https://www.kdnuggets.com/2019/04/nlp-pytorch.html<br>
 
+# Analytics - Python Video Classification 
+Video classification with Keras and Deep Learning https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/<br>
+
+
 # Analytics - Python General
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
 Interactive Machine Learning Examples		https://research.google.com/seedbank/<br>
@@ -77,6 +81,7 @@ Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-
 Some advanced Python features https://towardsdatascience.com/5-advanced-features-of-python-and-how-to-use-them-73bffa373c84<br>
 Data Discovery - Pandas profiling https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625<br>
 Pandas dataframe indexing https://www.kdnuggets.com/2019/04/pandas-dataframe-indexing.html<br>
+Papers with Code https://paperswithcode.com/<br>
 
 # Analytics - Python - Best Practices
 Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
@@ -92,6 +97,9 @@ Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-anal
 Remote kernel services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
 Git to notebooks https://mybinder.org/<br>
 
+# Analytics - Workflow Management
+Pytorch Hub https://pytorch.org/hub
+
 # Analytics - Python Libraries
 CURL to code		https://curl.trillworks.com/#python<br>
 GA Scraper	https://github.com/debrouwere/google-analytics<br>
@@ -105,9 +113,15 @@ Shares & Likes https://www.sharedcount.com/<br>
 Google Trends https://github.com/GeneralMills/pytrends<br>
 Extracting Twitter Data, Pre-Processing and Sentiment Analysis using Python 3.0 https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf<br>
 
-# Analytics - Unstructured Scraping
+# Analytics - Recommendation
+Facebook Deep Learning Recommendation Model https://github.com/facebookresearch/dlrm
+
+# Analytics - Scraping
 Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
 Visual scraping https://github.com/scrapinghub/portia#<br>
+Guide to scraping with Scrapy https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/<br>
+Scrape and Summarize News Articles Using Python https://towardsdatascience.com/easily-scrape-and-summarize-news-articles-using-python-dfc7667d9e74<br>
+Scrape Competitor Prices from eBay.com https://www.scrapehero.com/how-to-scrape-competitor-prices-from-ebay-com-using-python-and-lxml/
 
 # Analytics - Primary Data - General
 Data aggregator		https://www.google.com/publicdata/directory<br>
@@ -127,9 +141,15 @@ ML Framework for Kubernetes https://www.kubeflow.org/<br>
 Machine learning framework with Docker		https://github.com/ufoym/deepo<br>
 Databricks unified platform https://databricks.com/product/unified-analytics-platform<br>
 Model deployment at scale https://www.slideshare.net/seldon_io/seldon-deploying-models-at-scale<br>
+Open source quantitative computing https://quantstack.net/<br>
 
 # Analytics - Front End - Visualization
 Some common mistakes https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368
+Jupyter Voila Example https://blog.jupyter.org/a-gallery-of-voil%C3%A0-examples-a2ce7ef99130
+
+# Analytics - Interpretability
+Concept Activation Vectors(CAVs) https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300<br>
+Concept Activation Vectors(CAVs) Github https://github.com/tensorflow/tcav
 
 # Infrastructure - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
