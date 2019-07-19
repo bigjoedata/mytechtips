@@ -152,6 +152,7 @@ Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_state.htm
 Mapping	https://wiki.openstreetmap.org/wiki/Planet.osm<br>
 
 # Analytics - Misc
+Socioviz social visualization https://socioviz.net/tutorials/advanced<br>
 ML Framework for Kubernetes https://www.kubeflow.org/<br>
 Machine learning framework with Docker		https://github.com/ufoym/deepo<br>
 Databricks unified platform https://databricks.com/product/unified-analytics-platform<br>
