@@ -21,6 +21,13 @@ Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascienc
 Kimball DW/BI Lifecycle Methodology https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dw-bi-lifecycle-method/<br>
 Common coding mistakes https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html<br>
 
+# Data Science Modeling - Interpretability
+Interpretable Machine Learning: A Guide for Making Black Box Models Explainable https://christophm.github.io/interpretable-ml-book/<br>
+Concept Activation Vectors(CAVs) https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300<br>
+Concept Activation Vectors(CAVs) Github https://github.com/tensorflow/tcav<br>
+What-if Tool https://pair-code.github.io/what-if-tool/<br>
+MIT ATMSeer https://dai.lids.mit.edu/projects/atmseer/
+
 # Visualization - Best Practices
 Google's Six Principles for Designing Any Chart https://medium.com/google-design/redefining-data-visualization-at-google-9bdcf2e447c6<br>
 Google Material Design Visualization Guidelines https://material.io/design/communication/data-visualization.html<br>
@@ -72,6 +79,7 @@ Another Spacy example https://towardsdatascience.com/reliving-avengers-infinity-
 Using Python to Analyze Game of Thrones https://medium.freecodecamp.org/how-i-used-python-to-analyze-game-of-thrones-503a96028ce6<br>
 Python NLTK	http://www.nltk.org/book/<br>
 Pytorch NLP https://www.kdnuggets.com/2019/04/nlp-pytorch.html<br>
+FB Pythia Vision and Language Framework https://code.fb.com/ai-research/pythia/<br>
 
 # Analytics - Scraping
 Open scraped data http://commoncrawl.org<br>
@@ -157,12 +165,6 @@ Open source dashboarding https://www.metabase.com/<br>
 Open source dashboarding http://superset.apache.org/<br>
 Open source dashboarding https://redash.io/<br>
 Open source dashboarding https://reportserver.net/<br>
-
-# Analytics - Interpretability
-Interpretable Machine Learning: A Guide for Making Black Box Models Explainable https://christophm.github.io/interpretable-ml-book/<br>
-Concept Activation Vectors(CAVs) https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300<br>
-Concept Activation Vectors(CAVs) Github https://github.com/tensorflow/tcav<br>
-What-if Tool https://pair-code.github.io/what-if-tool/<br>
 
 # Infrastructure - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
