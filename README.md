@@ -11,13 +11,20 @@ A deep dive into deep learning https://blogs.scientificamerican.com/observations
 https://www.fast.ai/2019/03/04/ethics-framework/<br>
 
 # Data Science - General reference and Training
+Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/<br>
+O'Reilly Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/<br>
 FirmAI - A repository of business specific workflows https://www.firmai.org/
 Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b<br>
 Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 
-# Data Science - Best Practices
-Interpretable Machine Learning: A Guide for Making Black Box Models Explainable https://christophm.github.io/interpretable-ml-book/<br>
+# Data Science and BI - Best Practices
+Kimball DW/BI Lifecycle Methodology https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dw-bi-lifecycle-method/<br>
 Common coding mistakes https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html<br>
+
+# Visualization - Best Practices
+Google's Six Principles for Designing Any Chart https://medium.com/google-design/redefining-data-visualization-at-google-9bdcf2e447c6<br>
+Google Material Design Visualization Guidelines https://material.io/design/communication/data-visualization.html<br>
+Some common mistakes https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368
 
 # Dev - General
 Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial<br>
@@ -42,20 +49,17 @@ Alteryx - Guide to Creating Your Own Connector Series	https://community.alteryx.
 Altertyx CURL	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/APIs-in-Alteryx-cURL-and-Download-Tool/ta-p/31522/jump-to/first-unread-message<br>
 Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-New-Kind-of-Macro/ba-p/260418<br>
 
-# Analytics - NLP & Image Recogntion
+# Analytics - NLP
 NLP Training Course https://course.spacy.io/<br>
+Chatbot framework https://rasa.com/products/rasa-stack/<br>
 Curated NLP page https://github.com/keon/awesome-nlp<br>
+Yago Semantic Knowledge Database https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/<br>
+Building a realtime NLP pipeline using Kafka and spaCy https://towardsdatascience.com/building-a-realtime-nlp-pipeline-using-kafka-and-spacy-d4ad636be702<br>
 Intel NLP Library https://github.com/NervanaSystems/nlp-architect<br>
-Web Scraping For Beginners Beautifulsoup,Scrapy,Selenium & Twitter API https://towardsdatascience.com/web-scraping-for-beginners-beautifulsoup-scrapy-selenium-twitter-api-f5a6d0589ea6<br>
-Article scraping	https://github.com/codelucas/newspaper<br>
-How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
-Open scraped data http://commoncrawl.org<br>
 Normalization https://regexone.com/lesson/matching_characters?<br>
 Multi-lingual sentence representations https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/<br>
-Image recognition		https://github.com/Raknoche/AptDeco<br>
 Pre-training language representations https://github.com/google-research/bert<br>
 Fast.ai API https://www.fast.ai/<br>
-Twitter Scraping https://github.com/kennethreitz/twitter-scraper<br>
 Stanford NLP https://github.com/stanfordnlp/stanfordnlp<br>
 Entity comparisons (GloVe model for distributed word representation) https://github.com/stanfordnlp/GloVe<br>
 Wiki dump parsing https://github.com/attardi/wikiextractor<br>
@@ -64,15 +68,33 @@ Spacy REST services https://github.com/explosion/spacy-services<br>
 Spacy Docker REST container https://github.com/jgontrum/spacy-api-docker<br>
 Spacy Docker REST container https://github.com/artpar/languagecrunch<br>
 Processing Spacy at scale https://towardsdatascience.com/a-couple-tricks-for-using-spacy-at-scale-54affd8326cf<br>
-Building a realtime NLP pipeline using Kafka and spaCy https://towardsdatascience.com/building-a-realtime-nlp-pipeline-using-kafka-and-spacy-d4ad636be702<br>
 Another Spacy example https://towardsdatascience.com/reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1<br>
 Using Python to Analyze Game of Thrones https://medium.freecodecamp.org/how-i-used-python-to-analyze-game-of-thrones-503a96028ce6<br>
 Python NLTK	http://www.nltk.org/book/<br>
 Pytorch NLP https://www.kdnuggets.com/2019/04/nlp-pytorch.html<br>
 
-# Analytics - Python Video Classification 
-Video classification with Keras and Deep Learning https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/<br>
+# Analytics - Scraping
+Open scraped data http://commoncrawl.org<br>
+Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
+Visual scraping https://github.com/scrapinghub/portia#<br>
+Guide to scraping with Scrapy https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/<br>
+Scrape and Summarize News Articles Using Python https://towardsdatascience.com/easily-scrape-and-summarize-news-articles-using-python-dfc7667d9e74<br>
+Sentiment Analysis with Text Mining https://www.freecodecamp.org/news/sentiment-analysis-with-text-mining/<br>
+Web Scraping For Beginners Beautifulsoup,Scrapy,Selenium & Twitter API https://towardsdatascience.com/web-scraping-for-beginners-beautifulsoup-scrapy-selenium-twitter-api-f5a6d0589ea6<br>
+Article scraping	https://github.com/codelucas/newspaper<br>
+How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
+Twitter Scraping https://github.com/kennethreitz/twitter-scraper<br>
+Google VS		https://anvaka.github.io/vs/?query=undefined (example)     https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20is%20...&query=luxemborg https://www.reddit.com/r/dataisbeautiful/comments/9yg8w9/googles_autocomplete_visualized_like_a_graph_link/<br>
+Instagram dashboard https://igmonitoring.com/<br>
+Shares & Likes https://www.sharedcount.com/<br>
+Google Trends https://github.com/GeneralMills/pytrends<br>
+Extracting Twitter Data, Pre-Processing and Sentiment Analysis using Python 3.0 https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf<br>
+Scrape Competitor Prices from eBay.com https://www.scrapehero.com/how-to-scrape-competitor-prices-from-ebay-com-using-python-and-lxml/
 
+# Analytics - Python Image & Video Classification 
+Fine-tuning with Keras and Deep Learning https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/<br>
+Video classification with Keras and Deep Learning https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/<br>
+Image recognition		https://github.com/Raknoche/AptDeco<br>
 
 # Analytics - Python General
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
@@ -98,7 +120,6 @@ Remote kernel services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/
 Git to notebooks https://mybinder.org/<br>
 
 # Analytics - Workflow Management
-Pytorch Hub https://pytorch.org/hub
 
 # Analytics - Python Libraries
 CURL to code		https://curl.trillworks.com/#python<br>
@@ -106,22 +127,8 @@ GA Scraper	https://github.com/debrouwere/google-analytics<br>
 Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML-Server-Python-Samples/blob/master/operationalize/Quickstart_Publish_Python_Web_Service.ipynb<br>
 Twitter to Python to Mongo		https://pythondata.com/collecting-storing-tweets-with-python-and-mongodb/<br>
 
-# Analytics - Search & Social
-Google VS		https://anvaka.github.io/vs/?query=undefined (example)     https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20is%20...&query=luxemborg https://www.reddit.com/r/dataisbeautiful/comments/9yg8w9/googles_autocomplete_visualized_like_a_graph_link/<br>
-Instagram dashboard https://igmonitoring.com/<br>
-Shares & Likes https://www.sharedcount.com/<br>
-Google Trends https://github.com/GeneralMills/pytrends<br>
-Extracting Twitter Data, Pre-Processing and Sentiment Analysis using Python 3.0 https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf<br>
-
 # Analytics - Recommendation
 Facebook Deep Learning Recommendation Model https://github.com/facebookresearch/dlrm
-
-# Analytics - Scraping
-Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
-Visual scraping https://github.com/scrapinghub/portia#<br>
-Guide to scraping with Scrapy https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/<br>
-Scrape and Summarize News Articles Using Python https://towardsdatascience.com/easily-scrape-and-summarize-news-articles-using-python-dfc7667d9e74<br>
-Scrape Competitor Prices from eBay.com https://www.scrapehero.com/how-to-scrape-competitor-prices-from-ebay-com-using-python-and-lxml/
 
 # Analytics - Primary Data - General
 Data aggregator		https://www.google.com/publicdata/directory<br>
@@ -144,25 +151,36 @@ Model deployment at scale https://www.slideshare.net/seldon_io/seldon-deploying-
 Open source quantitative computing https://quantstack.net/<br>
 
 # Analytics - Front End - Visualization
-Some common mistakes https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368
 Jupyter Voila Example https://blog.jupyter.org/a-gallery-of-voil%C3%A0-examples-a2ce7ef99130
+Python visualization https://dash.plot.ly<br>
+Open source dashboarding https://www.metabase.com/<br>
+Open source dashboarding http://superset.apache.org/<br>
+Open source dashboarding https://redash.io/<br>
+Open source dashboarding https://reportserver.net/<br>
 
 # Analytics - Interpretability
+Interpretable Machine Learning: A Guide for Making Black Box Models Explainable https://christophm.github.io/interpretable-ml-book/<br>
 Concept Activation Vectors(CAVs) https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300<br>
-Concept Activation Vectors(CAVs) Github https://github.com/tensorflow/tcav
+Concept Activation Vectors(CAVs) Github https://github.com/tensorflow/tcav<br>
+What-if Tool https://pair-code.github.io/what-if-tool/<br>
 
 # Infrastructure - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
+
+# Infrastructure - Database and Storage
+The Hitchhikers guide to handle Big Data using Spark https://towardsdatascience.com/the-hitchhikers-guide-to-handle-big-data-using-spark-90b9be0fe89a
 
 # Infrastructure - ETL
 Apache Drill for JSON	http://drill.apache.org/<br>
 Apatche Drill + Tableau https://mapr.com/blog/apache-drill-its-drilliant-query-json-files-tableau-desktop/<br>
 ODBC Drivers https://www.cdata.com/odbc/<br>
 Full infrastructure https://snowplowanalytics.com/<br>
-Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451<br>
 Open source ETL - https://www.singer.io/<br>
 
-# Infrastructure - Workflow management
+# Infrastructure - Workflow management and model deployment
+Deployment https://www.seldon.io/<br>
+Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451<br>
+Pytorch Hub https://pytorch.org/hub<br>
 Databolt Flow for Python https://github.com/d6t/d6tflow<br>
 Workflow management https://sourceforge.net/projects/pentaho/<br>
 Workflow management https://www.knime.com/<br>
@@ -178,18 +196,6 @@ Azure deployment https://dev.to/azure/all-your-containers-are-belong-to-usdeploy
 Overview of container development https://hackernoon.com/https-medium-com-spruha-pandya-of-microservices-containers-6f0ea25dac3<br>
 Kubernetes Cost Analysis https://medium.com/kubecost/introducing-kubecost-a-better-approach-to-kubernetes-cost-monitoring-b5450c3ae940<br>
 
-# Infrastructure - Machine Learning Storage Deployment<br>
-Deployment https://www.seldon.io/
-
-# Infrastructure - Visualization
-Python visualization https://dash.plot.ly<br>
-Open source dashboarding https://www.metabase.com/<br>
-Open source dashboarding http://superset.apache.org/<br>
-Open source dashboarding https://redash.io/<br>
-Open source dashboarding https://reportserver.net/<br>
-
-# Infrastructure - Chatbots and 
-https://rasa.com/products/rasa-stack/
 
 # Infrastructure - Hosted Databases
 MongoDB https://www.mongodb.com/cloud/atlas<br>
