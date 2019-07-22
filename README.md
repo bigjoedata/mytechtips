@@ -43,6 +43,7 @@ REST API Testing	https://www.getpostman.com/<br>
 Brightcove	https://support.brightcove.com/overview-analytics-api-v1#metrics<br>
 Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
 Google Ads Optimization https://developers.google.com/adwords/api/docs/samples/python/optimization<br>
+API Hubs https://rapidapi.com/<br>
 
 # Analytics - Alteryx
 Alteryx Getting Started	https://community.alteryx.com/t5/Getting-Started-Resources/Getting-Started-with-Alteryx-Designer/ta-p/165442<br>
