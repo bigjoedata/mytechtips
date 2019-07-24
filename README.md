@@ -106,6 +106,9 @@ Video classification with Keras and Deep Learning https://www.pyimagesearch.com/
 Image recognition		https://github.com/Raknoche/AptDeco<br>
 
 # Analytics - Python General
+Awesome Python, a curated list of Python related links https://github.com/vinta/awesome-python<br>
+Awesome Jupyter, a curated list of <br>Jupyter</br> related links https://github.com/markusschanta/awesome-jupyter<br>
+Awesome Jupyterlab, a curated list of <br>Jupyterlab</br> related links https://github.com/mauhai/awesome-jupyterlab<br>
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
 Interactive Machine Learning Examples		https://research.google.com/seedbank/<br>
 Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
