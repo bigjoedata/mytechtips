@@ -13,7 +13,7 @@ https://www.fast.ai/2019/03/04/ethics-framework/<br>
 # Data Science - General reference and Training
 Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/<br>
 O'Reilly Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/<br>
-FirmAI - A repository of business specific workflows https://www.firmai.org/
+FirmAI - A repository of business specific workflows https://www.firmai.org/<br>
 Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b<br>
 Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 
