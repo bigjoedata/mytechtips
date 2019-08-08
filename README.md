@@ -13,16 +13,22 @@ https://www.fast.ai/2019/03/04/ethics-framework/<br>
 # Data Science - General reference and Training
 Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/<br>
 O'Reilly Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/<br>
-FirmAI - A repository of business specific workflows https://www.firmai.org/<br>
 Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b<br>
-Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 
 # Data Science and BI - Best Practices
 Kimball DW/BI Lifecycle Methodology https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dw-bi-lifecycle-method/<br>
 Common coding mistakes https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html<br>
 
+# Data Science - Tool roundups
+A Guide to Python Machine Learning and Data Science Frameworks https://skymind.com/wiki/python-ai<br>
+FirmAI - A repository of business specific workflows https://www.firmai.org/<br>
+Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
+Automated ML https://www.datasciencecentral.com/profiles/blogs/automated-machine-learning-for-professionals-updated<br>
+Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
+
 # Data Science Modeling - Interpretability
 Interpretable Machine Learning: A Guide for Making Black Box Models Explainable https://christophm.github.io/interpretable-ml-book/<br>
+Python Libraries for Interpretable Machine Learning https://towardsdatascience.com/python-libraries-for-interpretable-machine-learning-c476a08ed2c7<br>
 Concept Activation Vectors(CAVs) https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300<br>
 Concept Activation Vectors(CAVs) Github https://github.com/tensorflow/tcav<br>
 What-if Tool https://pair-code.github.io/what-if-tool/<br>
@@ -81,6 +87,7 @@ Using Python to Analyze Game of Thrones https://medium.freecodecamp.org/how-i-us
 Python NLTK	http://www.nltk.org/book/<br>
 Pytorch NLP https://www.kdnuggets.com/2019/04/nlp-pytorch.html<br>
 FB Pythia Vision and Language Framework https://code.fb.com/ai-research/pythia/<br>
+Spacy + Pytorch Transformers https://explosion.ai/blog/spacy-pytorch-transformers<br>
 
 # Analytics - Scraping
 Open scraped data http://commoncrawl.org<br>
@@ -111,7 +118,6 @@ Awesome Jupyter, a curated list of <br>Jupyter</br> related links https://github
 Awesome Jupyterlab, a curated list of <br>Jupyterlab</br> related links https://github.com/mauhai/awesome-jupyterlab<br>
 Free Google Hosted Jupyter with guides, GPU & many goodies https://colab.research.google.com<br>
 Interactive Machine Learning Examples		https://research.google.com/seedbank/<br>
-Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 Some advanced Python features https://towardsdatascience.com/5-advanced-features-of-python-and-how-to-use-them-73bffa373c84<br>
 Data Discovery - Pandas profiling https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625<br>
 Pandas dataframe indexing https://www.kdnuggets.com/2019/04/pandas-dataframe-indexing.html<br>
@@ -131,20 +137,24 @@ Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-anal
 Remote kernel services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
 Git to notebooks https://mybinder.org/<br>
 
-# Analytics - Workflow Management
-
-# Analytics - Python Libraries
+# Analytics - Python General Libraries
 CURL to code		https://curl.trillworks.com/#python<br>
 GA Scraper	https://github.com/debrouwere/google-analytics<br>
 Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML-Server-Python-Samples/blob/master/operationalize/Quickstart_Publish_Python_Web_Service.ipynb<br>
 Twitter to Python to Mongo		https://pythondata.com/collecting-storing-tweets-with-python-and-mongodb/<br>
 
-# Analytics - Recommendation
+# Analytics - Python - Recommendation
 Facebook Deep Learning Recommendation Model https://github.com/facebookresearch/dlrm
+Build a Machine Learning Recommender https://towardsdatascience.com/build-a-machine-learning-recommender-72be2a8f96ed
 
 # Analytics - Primary Data - General
+Google dataset search https://toolbox.google.com/<br>
+Awesome Public Datasets https://github.com/awesomedata/awesome-public-datasets<br>
+Microsoft Research Open Data https://msropendata.com/<br>
 Data aggregator		https://www.google.com/publicdata/directory<br>
 Data aggregator		https://www.quandl.com/<br>
+UC Irvine Machine Learning Repository https://archive.ics.uci.edu/<br>
+Registry of Open Data on AWS https://registry.opendata.aws/<br>
 
 # Analytics -  Primary Data - Training Datasets
 NLP https://github.com/niderhoff/nlp-datasets<br>
