@@ -89,6 +89,9 @@ Pytorch NLP https://www.kdnuggets.com/2019/04/nlp-pytorch.html<br>
 FB Pythia Vision and Language Framework https://code.fb.com/ai-research/pythia/<br>
 Spacy + Pytorch Transformers https://explosion.ai/blog/spacy-pytorch-transformers<br>
 
+# Analytics - NLP - Cleaning
+Cleaning scripts https://github.com/eric-haibin-lin/text-proc<br>
+
 # Analytics - Scraping
 Open scraped data http://commoncrawl.org<br>
 Python automation / Headless browser	https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
@@ -144,7 +147,7 @@ Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML
 Twitter to Python to Mongo		https://pythondata.com/collecting-storing-tweets-with-python-and-mongodb/<br>
 
 # Analytics - Python - Recommendation
-Facebook Deep Learning Recommendation Model https://github.com/facebookresearch/dlrm
+Facebook Deep Learning Recommendation Model https://github.com/facebookresearch/dlrm<br>
 Build a Machine Learning Recommender https://towardsdatascience.com/build-a-machine-learning-recommender-72be2a8f96ed
 
 # Analytics - Primary Data - General
