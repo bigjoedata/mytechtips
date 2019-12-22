@@ -91,6 +91,7 @@ Spacy + Pytorch Transformers https://explosion.ai/blog/spacy-pytorch-transformer
 Demystifying BERT: A Comprehensive Guide to the Groundbreaking NLP Framework https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/<br>
 Named Entity Disambiguation Boosted with Knowledge Graphs https://towardsdatascience.com/named-entity-disambiguation-boosted-with-knowledge-graphs-4a93a94381ef<br>
 Twitter Scraping, cleaning and visualization https://contentsimplicity.com/the-ultimate-guide-to-data-cleaning/<br>
+Auto Generated FAQ of Sub-Reddit https://towardsdatascience.com/auto-generated-faq-with-python-dash-text-analysis-and-reddit-api-90fb66a86633<br>
 
 # Analytics - NLP - Cleaning
 Cleaning scripts https://github.com/eric-haibin-lin/text-proc<br>
@@ -130,22 +131,28 @@ The Ultimate Guide to Web Scraping in Python 3 https://codeburst.io/the-ultimate
 Visual scraping https://github.com/scrapinghub/portia#<br>
 Guide to scraping with Scrapy https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/<br>
 Twitter Scraping https://github.com/twintproject/twint<br>
-Scrape and Summarize News Articles Using Python https://towardsdatascience.com/easily-scrape-and-summarize-news-articles-using-python-dfc7667d9e74<br>
 Sentiment Analysis with Text Mining https://www.freecodecamp.org/news/sentiment-analysis-with-text-mining/<br>
 Web Scraping For Beginners Beautifulsoup,Scrapy,Selenium & Twitter API https://towardsdatascience.com/web-scraping-for-beginners-beautifulsoup-scrapy-selenium-twitter-api-f5a6d0589ea6<br>
-Real-time Twitter Sentiment Analysis for Brand Improvement and Topic Tracking https://towardsdatascience.com/real-time-twitter-sentiment-analysis-for-brand-improvement-and-topic-tracking-chapter-1-3-e02f7652d8ff<br>
-How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
 Twitter Scraping https://github.com/kennethreitz/twitter-scraper<br>
+Real-time Twitter Sentiment Analysis for Brand Improvement and Topic Tracking https://towardsdatascience.com/real-time-twitter-sentiment-analysis-for-brand-improvement-and-topic-tracking-chapter-1-3-e02f7652d8ff<br>
+Twitter Scraping, Pre-Processing and Sentiment Analysis https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf<br>
 Google VS		https://anvaka.github.io/vs/?query=undefined (example)     https://anvaka.github.io/vs/?pattern=%5Bquery%5D%20is%20...&query=luxemborg https://www.reddit.com/r/dataisbeautiful/comments/9yg8w9/googles_autocomplete_visualized_like_a_graph_link/<br>
 Instagram dashboard https://igmonitoring.com/<br>
+Instagram Scraper https://github.com/rarcega/instagram-scraper<br>
+Instagram Scraper https://github.com/realsirjoe/instagram-scraper<br>
+Instagram Scraper https://instaloader.github.io<br>
+Instagram Scraping in R https://github.com/JonasSchroeder/InstaCrawlR/blob/master/README.md<br>
+Instagram Bot https://github.com/instabot-py/instabot.py<br>
+Scrape and Summarize News Articles Using Python https://towardsdatascience.com/easily-scrape-and-summarize-news-articles-using-python-dfc7667d9e74<br>
 Shares & Likes https://www.sharedcount.com/<br>
 Google Trends https://github.com/GeneralMills/pytrends<br>
-Extracting Twitter Data, Pre-Processing and Sentiment Analysis using Python 3.0 https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf<br>
 Scrape Competitor Prices from eBay.com https://www.scrapehero.com/how-to-scrape-competitor-prices-from-ebay-com-using-python-and-lxml/<br>
 Scraping Data behind Site Logins with Python https://towardsdatascience.com/scraping-data-behind-site-logins-with-python-ee0676f523ee<br>
-Instagram Scraping https://github.com/JonasSchroeder/InstaCrawlR/blob/master/README.md
 Aleph data search - Data search, management and analysis in investigative reporting https://github.com/alephdata<br>
 Cheap Google Cloud scraping platform https://levelup.gitconnected.com/running-a-scraping-platform-at-google-cloud-for-as-little-as-us-0-05-month-6d9658982f04<br>
+How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
+
+
 
 # Analytics - Python Image & Video Classification 
 Fine-tuning with Keras and Deep Learning https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/<br>
@@ -157,14 +164,16 @@ Transfer Learning using PyTorch https://www.analyticsvidhya.com/blog/2019/10/how
 Awesome Python, a curated list of Python related links https://github.com/vinta/awesome-python<br>
 Awesome Jupyter, a curated list of Jupyter related links https://github.com/markusschanta/awesome-jupyter<br>
 Awesome Jupyterlab, a curated list of Jupyterlab related links https://github.com/mauhai/awesome-jupyterlab<br>
+Papers with Code https://paperswithcode.com/<br>
 Interactive Machine Learning Examples		https://research.google.com/seedbank/<br>
 Some advanced Python features https://towardsdatascience.com/5-advanced-features-of-python-and-how-to-use-them-73bffa373c84<br>
 Data Discovery - Pandas profiling https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625<br>
-Pandas dataframe indexing https://www.kdnuggets.com/2019/04/pandas-dataframe-indexing.html<br>
-Papers with Code https://paperswithcode.com/<br>
-How to Implement Bayesian Optimization from Scratch in Python https://machinelearningmastery.com/what-is-bayesian-optimization/<br>
 Exploring your data with just 1 line of Python https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b35ce21a82d<br>
+Essential Pandas Features https://towardsdatascience.com/how-to-master-pandas-8514f33f00f6<br>
+Advanced Pandas Features https://towardsdatascience.com/learn-advanced-features-for-pythons-main-data-analysis-library-in-20-minutes-d0eedd90d086<br>
 Speed up Pandas https://towardsdatascience.com/how-to-make-your-pandas-loop-71-803-times-faster-805030df4f06<br>
+Pandas dataframe indexing https://www.kdnuggets.com/2019/04/pandas-dataframe-indexing.html<br>
+How to Implement Bayesian Optimization from Scratch in Python https://machinelearningmastery.com/what-is-bayesian-optimization/<br>
 
 # Analytics - Python - Best Practices
 Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
@@ -204,15 +213,17 @@ Awesome Public Datasets https://github.com/awesomedata/awesome-public-datasets<b
 Microsoft Research Open Data https://msropendata.com/<br>
 Data aggregator		https://www.google.com/publicdata/directory<br>
 Data aggregator		https://www.quandl.com/<br>
+Pandas Remote Data https://pandas-datareader.readthedocs.io/en/latest/remote_data.html
 UC Irvine Machine Learning Repository https://archive.ics.uci.edu/<br>
 Registry of Open Data on AWS https://registry.opendata.aws/<br>
+Get Quandl stock prices in Python https://medium.com/python-data/quandl-getting-end-of-day-stock-data-with-python-8652671d6661<br>
 
-# Analytics - Primary Data - Geo Datasets
+# Analytics - Primary Datasets - Geo
 Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html<br>
 Geography shapefiles	https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html<br>
 Mapping	https://wiki.openstreetmap.org/wiki/Planet.osm<br>
 
-# Analytics - Primary Data - NLP
+# Analytics - Primary Datasets - NLP
 NLP https://github.com/niderhoff/nlp-datasets<br>
 NLP https://github.com/awesomedata/awesome-public-datasets#natural-language<br>
 MS MARCO: A Human Generated MAchine Reading COmprehension Dataset https://arxiv.org/abs/1611.09268<br>
@@ -233,9 +244,6 @@ Alteryx - Guide to Creating Your Own Connector Series	https://community.alteryx.
 Altertyx CURL	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/APIs-in-Alteryx-cURL-and-Download-Tool/ta-p/31522/jump-to/first-unread-message<br>
 Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-New-Kind-of-Macro/ba-p/260418<br>
 
-# Analytics - Misc Visualization
-R Shiny Dashboard Packages https://www.r-bloggers.com/forget-about-excel-use-these-r-shiny-packages-instead/<br>
-
 # Analytics - Misc
 Socioviz social visualization https://socioviz.net/tutorials/advanced<br>
 Databricks unified platform https://databricks.com/product/unified-analytics-platform<br>
@@ -245,13 +253,16 @@ Open source quantitative computing https://quantstack.net/<br>
 # Analytics - Front End - Visualization & App development
 Turn Python Scripts into Beautiful ML Tools https://streamlit.io/<br>
 Jupyter Voila Example https://blog.jupyter.org/a-gallery-of-voil%C3%A0-examples-a2ce7ef99130<br>
-SandDance, a visual data exploration tool https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/<br>
+SandDance, a visual data exploration tool https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/  https://github.com/Microsoft/SandDance/blob/master/dev.md<br>
 Open source dashboarding http://superset.apache.org/<br>
 Open source dashboarding https://redash.io/<br>
-Python visualization https://dash.plot.ly<br>
+xkcd style plots in matplotlib Python visualization https://dash.plot.ly<b<br>
 Open source dashboarding https://www.metabase.com/<br>
 Open source dashboarding https://reportserver.net/<br>
 Time series dashboard in Python with Panel, Altair and a Jupyter Notebook https://towardsdatascience.com/how-to-build-a-time-series-dashboard-in-python-with-panel-altair-and-a-jupyter-notebook-c0ed40f02289<br>
+Dash dashboarding in Python https://towardsdatascience.com/build-your-own-data-dashboard-93e4848a0dcf<br>
+xkcd style plots in matplotlib http://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/<br>
+R Shiny Dashboard Packages https://www.r-bloggers.com/forget-about-excel-use-these-r-shiny-packages-instead/<br>
 
 # Infrastructure - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
@@ -269,15 +280,16 @@ Open source ETL - https://www.singer.io/<br>
 
 # Infrastructure - Workflow management and model deployment
 Kubeflow https://www.kubeflow.org/<br>
+Docker for Kubeflow https://www.docker.com/blog/depend-on-docker-for-kubeflow/<br>
 Deployment https://www.seldon.io/<br>
 Creating a production-ready API using FastAPI + Uvicorn https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf<br>
 Machine learning framework with Docker https://github.com/ufoym/deepo<br>
 Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451<br>
-Docker for Kubeflow https://www.docker.com/blog/depend-on-docker-for-kubeflow/<br>
+Dask Python Parallelization and Scheduling https://docs.dask.org/en/latest/<br>
 Pytorch Hub https://pytorch.org/hub<br>
-Databolt Flow for Python https://github.com/d6t/d6tflow<br>
-Workflow management https://sourceforge.net/projects/pentaho/<br>
-Workflow management https://www.knime.com/<br>
+Databolt https://github.com/d6t/d6tflow<br>
+Pentaho Workflow management https://sourceforge.net/projects/pentaho/<br>
+Knime https://www.knime.com/<br>
 Complete REST API with MongoDB Atlas cloud, Node, and Express in 10 minutes https://dev.to/lenmorld/rest-api-with-mongodb-atlas-cloud-node-and-express-in-10-minutes-2ii1<br>
 Data science framework https://metaflow.org/<br>
 Deploying Iris Classifications with FastAPI and Docker https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a<br>
