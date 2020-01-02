@@ -45,9 +45,6 @@ What-if Tool https://pair-code.github.io/what-if-tool/<br>
 MIT ATMSeer https://dai.lids.mit.edu/projects/atmseer/<br>
 Captum: A model interpretability library for PyTorch https://ai.facebook.com/blog/open-sourcing-captum-a-model-interpretability-library-for-pytorch<br>
 
-# Dev - General
-Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial<br>
-
 # Analytics - API
 Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
 GA API Explorer https://ga-dev-tools.appspot.com/<br>
@@ -62,7 +59,8 @@ Automated feature engineering https://docs.featuretools.com/en/stable/<br>
 Automated ML https://www.datasciencecentral.com/profiles/blogs/automated-machine-learning-for-professionals-updated<br>
 Demo of IBM's Watson Studio AutoAI to Predict Titanic's survivors https://github.com/IBMDataScience/autoai<br>
 
-# Analytics - NLP
+# Analytics - NLP - General
+Modern NLP Workflow and Examples https://github.com/skipgram/modern-nlp-in-python-2019/blob/master/notebooks/Modern_NLP_in_Python.ipynb<br>
 Document Embedding Techniques Overview https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d<br>
 Multi-Class Text Classification Model Comparison and Selection https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568<br>
 Spacy Training Course https://course.spacy.io/<br>
@@ -78,7 +76,6 @@ Pre-training language representations https://github.com/google-research/bert<br
 Fast.ai API https://www.fast.ai/<br>
 Stanford NLP https://github.com/stanfordnlp/stanfordnlp<br>
 Entity comparisons (GloVe model for distributed word representation) https://github.com/stanfordnlp/GloVe<br>
-Wiki dump parsing https://github.com/attardi/wikiextractor<br>
 Web-based text analysis, reading and visualization environment https://voyant-tools.org/<br>
 Spacy REST services https://github.com/explosion/spacy-services<br>
 Spacy Docker REST container https://github.com/jgontrum/spacy-api-docker<br>
@@ -92,10 +89,19 @@ Demystifying BERT: A Comprehensive Guide to the Groundbreaking NLP Framework htt
 Named Entity Disambiguation Boosted with Knowledge Graphs https://towardsdatascience.com/named-entity-disambiguation-boosted-with-knowledge-graphs-4a93a94381ef<br>
 Twitter Scraping, cleaning and visualization https://contentsimplicity.com/the-ultimate-guide-to-data-cleaning/<br>
 Auto Generated FAQ of Sub-Reddit https://towardsdatascience.com/auto-generated-faq-with-python-dash-text-analysis-and-reddit-api-90fb66a86633<br>
+Flair framework https://github.com/zalandoresearch/flair<br>
+NLP for Legal Texts https://research.iclr.co.uk/blackstone<br>
+Another Spacy example https://towardsdatascience.com/reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1<br>
+Using Python to Analyze Game of Thrones https://medium.freecodecamp.org/how-i-used-python-to-analyze-game-of-thrones-503a96028ce6<br>
+Why we switched from Spacy to Flair to anonymize French case law https://towardsdatascience.com/why-we-switched-from-spacy-to-flair-to-anonymize-french-legal-cases-e7588566825f<br>
+Text annotation https://github.com/doccano/doccano<br>
 
-# Analytics - NLP - Cleaning
+# Analytics - NLP - Cleaning and processing
+Article processing	https://github.com/codelucas/newspaper<br>
 Cleaning scripts https://github.com/eric-haibin-lin/text-proc<br>
 Using the Python regex module https://mlwhiz.com/blog/2019/09/01/regex/<br>
+Wiki dump parsing https://github.com/attardi/wikiextractor<br>
+Pre-processing a Wikipedia dump for NLP model training https://towardsdatascience.com/pre-processing-a-wikipedia-dump-for-nlp-model-training-a-write-up-3b9176fdf67<br>
 
 # Analytics - NLP - Language Generation and chatbots
 CTRL - A Conditional Transformer Language Model for Controllable Generation https://github.com/salesforce/ctrl/blob/master/README.md<br>
@@ -107,22 +113,15 @@ Build an Intelligent Chatbot https://www.kdnuggets.com/2019/12/build-intelligent
 Emotion Recognition Using Graph Convolutional Networks https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e<br>
 Fine-tuning GPT-2 https://blog.usejournal.com/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc<br>
 
-# Analytics - NLP - Classification, Topic Modeling
-Flair framework https://github.com/zalandoresearch/flair<br>
-Article processing	https://github.com/codelucas/newspaper<br>
-Multi-Label Classification using BERT, RoBERTa, XLNet, XLM, and DistilBERT with Simple Transformers https://towardsdatascience.com/multi-label-classification-using-bert-roberta-xlnet-xlm-and-distilbert-with-simple-transformers-b3e0cda12ce5<br>
+# Analytics - NLP - Classification and Topic Modeling
+Fullstack NLP: Building & Deploying End-to-end Fake News Classifier https://hatem-hassan.com/blog/fullstack-nlp-building-and-deploying-end-to-end-fake-news-classifier/<br>
 Use BERT to Generate Meta Descriptions at Scale https://www.searchenginejournal.com/bert-generate-meta-descriptions/332585/<br>
 Building a Topic Modeling Pipeline with spaCy and Gensim https://towardsdatascience.com/building-a-topic-modeling-pipeline-with-spacy-and-gensim-c5dc03ffc619<br>
-Pre-processing a Wikipedia dump for NLP model training https://towardsdatascience.com/pre-processing-a-wikipedia-dump-for-nlp-model-training-a-write-up-3b9176fdf67<br>
-Fullstack NLP: Building & Deploying End-to-end Fake News Classifier https://hatem-hassan.com/blog/fullstack-nlp-building-and-deploying-end-to-end-fake-news-classifier/<br>
-Writing Linguistic Rules for Natural Language Processing https://towardsdatascience.com/linguistic-rule-writing-for-nlp-ml-64d9af824ee8<br>
-NLP for Legal Texts https://research.iclr.co.uk/blackstone<br>
-Another Spacy example https://towardsdatascience.com/reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1<br>
-Using Python to Analyze Game of Thrones https://medium.freecodecamp.org/how-i-used-python-to-analyze-game-of-thrones-503a96028ce6<br>
-Conversational Sentiment / Named Entities Analysis https://towardsdatascience.com/conversational-sentiment-analysis-52eabd20155b<br>
-Why we switched from Spacy to Flair to anonymize French case law https://towardsdatascience.com/why-we-switched-from-spacy-to-flair-to-anonymize-french-legal-cases-e7588566825f<br>
+Multi-Label Classification using BERT, RoBERTa, XLNet, XLM, and DistilBERT with Simple Transformers https://towardsdatascience.com/multi-label-classification-using-bert-roberta-xlnet-xlm-and-distilbert-with-simple-transformers-b3e0cda12ce5<br>
 Gridsearch best topic models with LDA https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/<br>
 Topic Modeling and Visualizations with PyLDAvis https://towardsdatascience.com/futarama-benders-nlp-775c47871ad5<br>
+Conversational Sentiment / Named Entities Analysis https://towardsdatascience.com/conversational-sentiment-analysis-52eabd20155b<br>
+Writing Linguistic Rules for Natural Language Processing https://towardsdatascience.com/linguistic-rule-writing-for-nlp-ml-64d9af824ee8<br>
 
 # Analytics - Scraping
 Open scraped data http://commoncrawl.org<br>
@@ -151,8 +150,6 @@ Scraping Data behind Site Logins with Python https://towardsdatascience.com/scra
 Aleph data search - Data search, management and analysis in investigative reporting https://github.com/alephdata<br>
 Cheap Google Cloud scraping platform https://levelup.gitconnected.com/running-a-scraping-platform-at-google-cloud-for-as-little-as-us-0-05-month-6d9658982f04<br>
 How Many Websites Provide RSS / Web Syndication Feeds https://draft.li/blog/2016/03/21/rss-usage-on-the-web/<br>
-
-
 
 # Analytics - Python Image & Video Classification 
 Fine-tuning with Keras and Deep Learning https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/<br>
@@ -198,6 +195,9 @@ CURL to code		https://curl.trillworks.com/#python<br>
 GA Scraper	https://github.com/debrouwere/google-analytics<br>
 Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML-Server-Python-Samples/blob/master/operationalize/Quickstart_Publish_Python_Web_Service.ipynb<br>
 Twitter to Python to Mongo		https://pythondata.com/collecting-storing-tweets-with-python-and-mongodb/<br>
+
+# Analytics - Other General
+Learn Enough JavaScript to Be Dangerous	https://www.learnenough.com/javascript-tutorial<br>
 
 # Analytics - Python - Recommendation & Decision Optimization
 Facebook Deep Learning Recommendation Model https://github.com/facebookresearch/dlrm<br>
