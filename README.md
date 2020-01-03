@@ -105,6 +105,8 @@ Pre-processing a Wikipedia dump for NLP model training https://towardsdatascienc
 
 # Analytics - NLP - Language Generation and chatbots
 CTRL - A Conditional Transformer Language Model for Controllable Generation https://github.com/salesforce/ctrl/blob/master/README.md<br>
+Conversational AI Challenge http://convai.io/<br>
+Conversation platform with model zoo https://parl.ai/<br>
 Build a State-of-the-Art Conversational AI with Transfer Learning https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313<br>
 Build a chatbot in Python https://dev.to/duomly/how-to-build-a-chatbot-in-python-497h<br>
 Faking the News with Natural Language Processing and GPT-2 https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d<br>
