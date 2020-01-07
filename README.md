@@ -114,6 +114,8 @@ Chatbot framework https://rasa.com/products/rasa-stack/<br>
 Build an Intelligent Chatbot https://www.kdnuggets.com/2019/12/build-intelligent-chatbot.html<br>
 Emotion Recognition Using Graph Convolutional Networks https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e<br>
 Fine-tuning GPT-2 https://blog.usejournal.com/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc<br>
+Multi-domain end-to-end dialog system platform https://github.com/ConvLab/ConvLab<br>
+Ubuntu Dialog Corpus https://www.kaggle.com/rtatman/ubuntu-dialogue-corpus<br>
 
 # Analytics - NLP - Classification and Topic Modeling
 Fullstack NLP: Building & Deploying End-to-end Fake News Classifier https://hatem-hassan.com/blog/fullstack-nlp-building-and-deploying-end-to-end-fake-news-classifier/<br>
