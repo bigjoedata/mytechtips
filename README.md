@@ -69,6 +69,7 @@ Curated NLP page https://github.com/keon/awesome-nlp<br>
 Yago Semantic Knowledge Database https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/<br>
 Building a realtime NLP pipeline using Kafka and spaCy https://towardsdatascience.com/building-a-realtime-nlp-pipeline-using-kafka-and-spacy-d4ad636be702<br>
 Visualizing 100,000 Amazon Products https://towardsdatascience.com/vis-amz-83dea6fcb059<br>
+Find and compare distinguishing terms in corpora https://github.com/JasonKessler/scattertext<br>
 Intel NLP Library https://github.com/NervanaSystems/nlp-architect<br>
 Normalization https://regexone.com/lesson/matching_characters?<br>
 Multi-lingual sentence representations https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/<br>
