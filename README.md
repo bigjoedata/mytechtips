@@ -1,21 +1,18 @@
 # Joestechtips
 I haven't necessarily used all of these, but many I have, and I think they are either good on their own, or a good starting point for something else<br>
 
-# Data Science - News
-Netflix tech blog https://medium.com/netflix-techblog
-
-# Data Science - General Articles
+# Data Science - General Articles & News
 Why Data Science Teams Need Generalists, Not Specialists https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists<br>
 How Data Science is written into the fabric of stitchfix https://algorithms-tour.stitchfix.com/<br>
 https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html<br>
 A deep dive into deep learning https://blogs.scientificamerican.com/observations/a-deep-dive-into-deep-learning/<br>
+Netflix tech blog https://medium.com/netflix-techblog
 
 # Data Science - Ethics
 https://www.fast.ai/2019/03/04/ethics-framework/<br>
 
 # Data Science - General reference and Training
 Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/<br>
-O'Reilly Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/<br>
 Resources to Learn AI & Machine Learning https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b<br>
 
 # Data Science and BI - Best Practices
@@ -30,45 +27,36 @@ Adding context to visualization https://flowingdata.com/2019/10/17/techniques-fo
 Elegant visualizations https://medium.com/nightingale/what-makes-a-data-visualisation-elegant-fb032c3a259e<br>
 
 # Data Science - Tool roundups
-A Guide to Python Machine Learning and Data Science Frameworks https://skymind.com/wiki/python-ai<br>
 FirmAI - A repository of business specific workflows https://www.firmai.org/<br>
-Top Machine Learning APIs https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
-Top 20 APIs You Should Know In AI and Machine Learning https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3<br>
 
 # Data Science Modeling - Interpretability
 Interpretable Machine Learning: A Guide for Making Black Box Models Explainable https://christophm.github.io/interpretable-ml-book/<br>
 Python Libraries for Interpretable Machine Learning https://towardsdatascience.com/python-libraries-for-interpretable-machine-learning-c476a08ed2c7<br>
 ELI5: Adding Interpretability to Multiclass Text Classification models https://towardsdatascience.com/adding-interpretability-to-multiclass-text-classification-models-c44864e8a13b<br>
-Concept Activation Vectors(CAVs) https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300<br>
 Concept Activation Vectors(CAVs) Github https://github.com/tensorflow/tcav<br>
 What-if Tool https://pair-code.github.io/what-if-tool/<br>
 MIT ATMSeer https://dai.lids.mit.edu/projects/atmseer/<br>
 Captum: A model interpretability library for PyTorch https://ai.facebook.com/blog/open-sourcing-captum-a-model-interpretability-library-for-pytorch<br>
 
 # Analytics - API
-Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
 GA API Explorer https://ga-dev-tools.appspot.com/<br>
 REST API Testing	https://www.getpostman.com/<br>
 Brightcove	https://support.brightcove.com/overview-analytics-api-v1#metrics<br>
 Facebook API	https://developers.facebook.com/docs/graph-api/reference/insights/<br>
 Google Ads Optimization https://developers.google.com/adwords/api/docs/samples/python/optimization<br>
-API Hubs https://rapidapi.com/<br>
 
 # Analytics - Auto ML & Feature Engineering
 Automated feature engineering https://docs.featuretools.com/en/stable/<br>
-Automated ML https://www.datasciencecentral.com/profiles/blogs/automated-machine-learning-for-professionals-updated<br>
 Demo of IBM's Watson Studio AutoAI to Predict Titanic's survivors https://github.com/IBMDataScience/autoai<br>
 
 # Analytics - NLP - General
-Modern NLP Workflow and Examples https://github.com/skipgram/modern-nlp-in-python-2019/blob/master/notebooks/Modern_NLP_in_Python.ipynb<br>
+Curated NLP page https://github.com/keon/awesome-nlp<br>
 Document Embedding Techniques Overview https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d<br>
 Multi-Class Text Classification Model Comparison and Selection https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568<br>
 Spacy Training Course https://course.spacy.io/<br>
 Spacy tutorial https://blog.dominodatalab.com/natural-language-in-python-using-spacy/<br>
-Curated NLP page https://github.com/keon/awesome-nlp<br>
+NLP Workflow and Examples https://github.com/skipgram/modern-nlp-in-python-2019/blob/master/notebooks/Modern_NLP_in_Python.ipynb<br>
 Yago Semantic Knowledge Database https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/<br>
-Building a realtime NLP pipeline using Kafka and spaCy https://towardsdatascience.com/building-a-realtime-nlp-pipeline-using-kafka-and-spacy-d4ad636be702<br>
-Visualizing 100,000 Amazon Products https://towardsdatascience.com/vis-amz-83dea6fcb059<br>
 Find and compare distinguishing terms in corpora https://github.com/JasonKessler/scattertext<br>
 Intel NLP Library https://github.com/NervanaSystems/nlp-architect<br>
 Normalization https://regexone.com/lesson/matching_characters?<br>
@@ -78,7 +66,6 @@ Fast.ai API https://www.fast.ai/<br>
 Stanford NLP https://github.com/stanfordnlp/stanfordnlp<br>
 Entity comparisons (GloVe model for distributed word representation) https://github.com/stanfordnlp/GloVe<br>
 Web-based text analysis, reading and visualization environment https://voyant-tools.org/<br>
-Spacy REST services https://github.com/explosion/spacy-services<br>
 Spacy Docker REST container https://github.com/jgontrum/spacy-api-docker<br>
 Spacy Docker REST container https://github.com/artpar/languagecrunch<br>
 Processing Spacy at scale https://towardsdatascience.com/a-couple-tricks-for-using-spacy-at-scale-54affd8326cf<br>
@@ -92,31 +79,34 @@ Twitter Scraping, cleaning and visualization https://contentsimplicity.com/the-u
 Auto Generated FAQ of Sub-Reddit https://towardsdatascience.com/auto-generated-faq-with-python-dash-text-analysis-and-reddit-api-90fb66a86633<br>
 Flair framework https://github.com/zalandoresearch/flair<br>
 NLP for Legal Texts https://research.iclr.co.uk/blackstone<br>
+
+Text annotation https://github.com/doccano/doccano<br>
+
+# Analytics - NLP - Case Studies
 Another Spacy example https://towardsdatascience.com/reliving-avengers-infinity-war-with-spacy-and-natural-language-processing-2abcb48e4ba1<br>
 Using Python to Analyze Game of Thrones https://medium.freecodecamp.org/how-i-used-python-to-analyze-game-of-thrones-503a96028ce6<br>
 Why we switched from Spacy to Flair to anonymize French case law https://towardsdatascience.com/why-we-switched-from-spacy-to-flair-to-anonymize-french-legal-cases-e7588566825f<br>
-Text annotation https://github.com/doccano/doccano<br>
+Building a realtime NLP pipeline using Kafka and spaCy https://towardsdatascience.com/building-a-realtime-nlp-pipeline-using-kafka-and-spacy-d4ad636be702<br>
+Visualizing 100,000 Amazon Products https://towardsdatascience.com/vis-amz-83dea6fcb059<br>
+Pre-processing a Wikipedia dump for NLP model training https://towardsdatascience.com/pre-processing-a-wikipedia-dump-for-nlp-model-training-a-write-up-3b9176fdf67<br>
+Build a State-of-the-Art Conversational AI with Transfer Learning https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313<br>
 
 # Analytics - NLP - Cleaning and processing
 Article processing	https://github.com/codelucas/newspaper<br>
 Cleaning scripts https://github.com/eric-haibin-lin/text-proc<br>
 Using the Python regex module https://mlwhiz.com/blog/2019/09/01/regex/<br>
 Wiki dump parsing https://github.com/attardi/wikiextractor<br>
-Pre-processing a Wikipedia dump for NLP model training https://towardsdatascience.com/pre-processing-a-wikipedia-dump-for-nlp-model-training-a-write-up-3b9176fdf67<br>
 
 # Analytics - NLP - Language Generation and chatbots
 CTRL - A Conditional Transformer Language Model for Controllable Generation https://github.com/salesforce/ctrl/blob/master/README.md<br>
 Conversational AI Challenge http://convai.io/<br>
 Conversation platform with model zoo https://parl.ai/<br>
-Build a State-of-the-Art Conversational AI with Transfer Learning https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313<br>
-Build a chatbot in Python https://dev.to/duomly/how-to-build-a-chatbot-in-python-497h<br>
 Faking the News with Natural Language Processing and GPT-2 https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d<br>
 Chatbot framework https://rasa.com/products/rasa-stack/<br>
 Build an Intelligent Chatbot https://www.kdnuggets.com/2019/12/build-intelligent-chatbot.html<br>
 Emotion Recognition Using Graph Convolutional Networks https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e<br>
 Fine-tuning GPT-2 https://blog.usejournal.com/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc<br>
 Multi-domain end-to-end dialog system platform https://github.com/ConvLab/ConvLab<br>
-Ubuntu Dialog Corpus https://www.kaggle.com/rtatman/ubuntu-dialogue-corpus<br>
 
 # Analytics - NLP - Classification and Topic Modeling
 Fullstack NLP: Building & Deploying End-to-end Fake News Classifier https://hatem-hassan.com/blog/fullstack-nlp-building-and-deploying-end-to-end-fake-news-classifier/<br>
@@ -127,6 +117,9 @@ Gridsearch best topic models with LDA https://www.machinelearningplus.com/nlp/to
 Topic Modeling and Visualizations with PyLDAvis https://towardsdatascience.com/futarama-benders-nlp-775c47871ad5<br>
 Conversational Sentiment / Named Entities Analysis https://towardsdatascience.com/conversational-sentiment-analysis-52eabd20155b<br>
 Writing Linguistic Rules for Natural Language Processing https://towardsdatascience.com/linguistic-rule-writing-for-nlp-ml-64d9af824ee8<br>
+
+# Analytics - NLP - Corpus
+Ubuntu Dialog Corpus https://www.kaggle.com/rtatman/ubuntu-dialogue-corpus<br>
 
 # Analytics - Scraping
 Open scraped data http://commoncrawl.org<br>
@@ -181,9 +174,7 @@ How to Implement Bayesian Optimization from Scratch in Python https://machinelea
 Best practices for packaging Python http://veekaybee.github.io/2017/09/26/python-packaging/<br>
 A Python Package Developer’s Cheat Sheet https://medium.com/better-programming/a-python-package-developers-cheat-sheet-3efb9e9454c7<br>
 Python project Setup tips https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13<br>
-Elegantly activating a virtualenv in a Dockerfile https://pythonspeed.com/articles/activate-virtualenv-dockerfile/<br>
 Jupyter setup best practices https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332<br>
-Docker + Python https://pythonspeed.com/articles/activate-virtualenv-dockerfile/<br>
 Data cleaning reference https://towardsdatascience.com/data-handling-using-pandas-cleaning-and-processing-3aa657dc9418<br>
 Pandas dataframe indexing https://www.kdnuggets.com/2019/04/pandas-dataframe-indexing.html<br>
 How to Write Production-Quality Code https://towardsdatascience.com/3-python-tools-data-scientists-can-use-for-production-quality-code-604a5e0acf9a<br>
@@ -198,7 +189,6 @@ Git to notebooks https://mybinder.org/<br>
 # Analytics - Python General Libraries
 CURL to code		https://curl.trillworks.com/#python<br>
 GA Scraper	https://github.com/debrouwere/google-analytics<br>
-Deploy a Python model in Machine Learning Server https://github.com/Microsoft/ML-Server-Python-Samples/blob/master/operationalize/Quickstart_Publish_Python_Web_Service.ipynb<br>
 Twitter to Python to Mongo		https://pythondata.com/collecting-storing-tweets-with-python-and-mongodb/<br>
 
 # Analytics - Other General
@@ -240,14 +230,13 @@ Python + Adobe analytics	https://www.datanalyst.info/python/adobe-api/adobe-anal
 # Analytics - Alteryx
 Alteryx Getting Started	https://community.alteryx.com/t5/Getting-Started-Resources/Getting-Started-with-Alteryx-Designer/ta-p/165442<br>
 Invisio Alteryx Macro Pack	https://inviso.dk/blog/post/the-inviso-macro-pack-for-alteryx<br>
-Create Alteryx tool	https://help.alteryx.com/developer/current/PackageTool.htm?tocpath=Custom%20Alteryx%20Tools%7C_____2<br>
+Create Alteryx tool	https://help.alteryx.com/developer/current/PackageTool.htm<br>
 Python SDK	https://community.alteryx.com/t5/Data-Science-Blog/Levelling-Up-A-Beginner-s-Guide-to-the-Python-SDK-in-Alteryx/ba-p/159440<br>
 Alteryx R cheat sheet	https://community.alteryx.com/t5/Data-Science-Blog/bg-p/Data-Science-Blog?attachment-id=21415<br>
 Datablending	https://datablends.us/2018/02/24/my-fifty-most-recent-alteryx-articles/<br>
 Alteryx - Getting started with Google Analytics	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/The-How-to-Guide-to-Google-Analytics/ta-p/15137<br>
 Alteryx - Guide to Creating Your Own Connector Series	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Guide-to-Creating-Your-Own-Connector-Series/ta-p/23578<br>
 Altertyx CURL	https://community.alteryx.com/t5/Alteryx-Knowledge-Base/APIs-in-Alteryx-cURL-and-Download-Tool/ta-p/31522/jump-to/first-unread-message<br>
-Alteryx + Jupyter Python	https://community.alteryx.com/t5/Engine-Works-Blog/A-New-Kind-of-Macro/ba-p/260418<br>
 
 # Analytics - Misc
 Socioviz social visualization https://socioviz.net/tutorials/advanced<br>
@@ -272,46 +261,24 @@ R Shiny Dashboard Packages https://www.r-bloggers.com/forget-about-excel-use-the
 # Infrastructure - General
 List of self-hosted software https://github.com/Kickball/awesome-selfhosted<br>
 
-# Infrastructure - Data and Storage Management
-The Hitchhikers guide to handle Big Data using Spark https://towardsdatascience.com/the-hitchhikers-guide-to-handle-big-data-using-spark-90b9be0fe89a<br>
-Analyse 100 GB of data on your laptop with Python https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94<br>
-
 # Infrastructure - ETL and Data Wrappers
 Apache Drill for JSON	http://drill.apache.org/<br>
-Apatche Drill + Tableau https://mapr.com/blog/apache-drill-its-drilliant-query-json-files-tableau-desktop/<br>
-ODBC Drivers https://www.cdata.com/odbc/<br>
+Apache Drill + Tableau https://mapr.com/blog/apache-drill-its-drilliant-query-json-files-tableau-desktop/<br>
 Full infrastructure https://snowplowanalytics.com/<br>
 Open source ETL - https://www.singer.io/<br>
 
 # Infrastructure - Workflow management and model deployment
 Kubeflow https://www.kubeflow.org/<br>
-Docker for Kubeflow https://www.docker.com/blog/depend-on-docker-for-kubeflow/<br>
 Deployment https://www.seldon.io/<br>
 Creating a production-ready API using FastAPI + Uvicorn https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf<br>
 Machine learning framework with Docker https://github.com/ufoym/deepo<br>
-Apache Airflow Example https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451<br>
 Dask Python Parallelization and Scheduling https://docs.dask.org/en/latest/<br>
-Pytorch Hub https://pytorch.org/hub<br>
-Databolt https://github.com/d6t/d6tflow<br>
 Pentaho Workflow management https://sourceforge.net/projects/pentaho/<br>
 Knime https://www.knime.com/<br>
 Complete REST API with MongoDB Atlas cloud, Node, and Express in 10 minutes https://dev.to/lenmorld/rest-api-with-mongodb-atlas-cloud-node-and-express-in-10-minutes-2ii1<br>
 Data science framework https://metaflow.org/<br>
 Deploying Iris Classifications with FastAPI and Docker https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a<br>
 
-# Infrastructure - Containerized Services
-Key Kubernetes Concepts https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e<br>
-Zero to JupyterHub with Kubernetes https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html<br>
-Jupyter Cloud services		https://jupyter-kernel-gateway.readthedocs.io/en/latest/index.html<br>
-Really cheap Kubernetes cluster on AWS https://github.com/cablespaghetti/kubeadm-aws<br>
-Define and execute containerized jobs https://github.com/stitchfix/flotilla-os<br>
-Azure deployment https://dev.to/azure/all-your-containers-are-belong-to-usdeploying-to-microsoft-azure-7dm<br>
-Overview of container development https://hackernoon.com/https-medium-com-spruha-pandya-of-microservices-containers-6f0ea25dac3<br>
-Kubernetes Cost Analysis https://medium.com/kubecost/introducing-kubecost-a-better-approach-to-kubernetes-cost-monitoring-b5450c3ae940<br>
-Running Docker on Windows Without Hyper-V https://www.flawlessrhetoric.com/Running-Docker-on-Windows-Without-Hyper-V<br>
-
-# Infrastructure - Hosted Databases
-MongoDB https://www.mongodb.com/cloud/atlas<br>
 
 # Creative
 Icons	https://iconmonstr.com/<br>
